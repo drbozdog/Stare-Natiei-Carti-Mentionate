@@ -1,16 +1,21 @@
-# Books Mentioned in Starea Natiei - GitHub Pages Export
+# Cărți Menționate în Starea Nației
 
-This directory contains files for a GitHub Pages website displaying books mentioned in Starea Natiei.
+O colecție de cărți discutate și recomandate în emisiunea Starea Nației.
 
-## Files
-- `index.html` - Main HTML file
-- `styles.css` - CSS styles
-- `script.js` - JavaScript functionality
-- `books.json` - JSON data file for API use
+## Statistici
+- Total cărți: 199
+- Cărți recomandate: 91
+- Alte cărți menționate: 108
 
-## How to Use
-1. The files are already in your GitHub Pages repository
-2. Make sure GitHub Pages is enabled in your repository settings
-3. The site will be available at your GitHub Pages URL
+## Fișiere
+- `index.html` - Pagina principală
+- `styles.css` - Stiluri CSS
+- `script.js` - Funcționalitate JavaScript
+- `books.json` - Date în format JSON pentru API
 
-Generated on: 2025-03-02 11:28:04
+## Cum să folosești
+1. Fișierele sunt deja în repository-ul GitHub Pages
+2. Asigură-te că GitHub Pages este activat în setările repository-ului
+3. Site-ul va fi disponibil la URL-ul GitHub Pages
+
+Generat la: 2025-03-02 18:16:46
