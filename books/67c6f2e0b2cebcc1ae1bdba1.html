@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atenție - Detalii | Starea Nației</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .book-details {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px var(--shadow-color);
+            padding: 2rem;
+        }
+        
+        .book-header {
+            margin-bottom: 2rem;
+            text-align: center;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .book-title {
+            font-size: 2.5rem;
+            color: var(--text-color);
+            margin-bottom: 0.75rem;
+            line-height: 1.2;
+        }
+        
+        .book-author {
+            font-size: 1.4rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .external-link {
+            display: inline-block;
+            margin: 1.5rem 0;
+            padding: 0.8rem 1.5rem;
+            background: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            transition: background-color 0.3s ease;
+            font-size: 1.1rem;
+        }
+        
+        .external-link:hover {
+            background: #1976D2;
+        }
+        
+        .book-description {
+            margin: 2rem auto;
+            line-height: 1.8;
+            color: #444;
+            max-width: 800px;
+            font-size: 1.1rem;
+        }
+        
+        .mentions-section {
+            margin-top: 3rem;
+        }
+        
+        .mentions-section h3 {
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            color: var(--text-color);
+        }
+        
+        .mention-card {
+            margin: 1.5rem 0;
+            padding: 2rem;
+            background: var(--background-light);
+            border-radius: 8px;
+            box-shadow: 0 1px 3px var(--shadow-color);
+        }
+        
+        .mention-date {
+            color: #666;
+            font-size: 1rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        .mention-link {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        
+        .mention-text {
+            margin: 1rem 0;
+            line-height: 1.7;
+            color: #333;
+            font-size: 1.1rem;
+        }
+        
+        .back-link {
+            display: inline-block;
+            margin: 2rem 0;
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+        
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .book-title {
+                font-size: 2rem;
+            }
+            
+            .book-author {
+                font-size: 1.2rem;
+            }
+            
+            .mention-card {
+                padding: 1.5rem;
+            }
+            
+            .mention-text {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cărți Menționate în Starea Nației</h1>
+    </header>
+
+    <main>
+        <div class="book-details">
+            <a href="#" class="back-link" onclick="history.back(); return false;">
+                <i class="fas fa-arrow-left"></i> Înapoi la lista de cărți
+            </a>
+            
+            <div class="book-header">
+                <h2 class="book-title">Atenție</h2>
+                <p class="book-author">de Gloria Mark</p>
+                <a href="https://carturesti.ro/carte/atentia-3015926382" class="external-link" target="_blank">Vezi detalii <i class="fas fa-external-link-alt"></i></a>
+            </div>
+
+            <div class="book-description">Pornind de la propria experiență și de la cercetările extinse realizate pe parcursul a zeci de ani, autoarea îți dezvăluie adevăratul cost al dezechilibrului unei vieți tot mai complicate. Gloria Mark îți vine în ajutor, invitându-te la o reflecție asupra dificultăților ridicate de navigarea pe internet și consumul de conținut media. Lucrarea de față e bazată pe zeci de ani de cercetare despre efectul computerizării asupra vieții personale: cât de suprasolicitați am devenit, cum ne asumăm din ce în ce mai multe sarcini, cum suntem întrerupți în mod constant. Dacă vrei să afli cum să acționezi eficient în era digitală, Atenția e o lectură obligatorie.</div>
+
+            <div class="mentions-section">
+                <h3>Mențiuni în emisiune</h3>
+                
+                <div class="mention-card">
+                    <div class="mention-date">17 august 2024</div>
+                    <a href="https://youtu.be/MWAKs_7iusc?t=00:50" 
+                       class="mention-link" target="_blank">
+                        Patru mituri despre atenție. Vocea Nației #242
+                    </a>
+                    <div class="mention-text">
+                        ultimii ani a devenit pur și simplu insuficientă pentru toate problemele pe care le am avea de rezolvat și care ne cer să ne concentrăm asupra lor mare parte din atenția noastră de azi este captată de muncă de nevoia de a munci și de toate poveștile pe care ni le spunem despre muncă așa că avem în această carte mai multe capitole care răspund la această întrebare De ce muncim apoi am vorbit despre faptul că tehnologia Ne fură mare parte din <span class="highlight">atenție</span> iar capitalismul sălbatic în care trăim cu al lui Obiectivul unic privind profitul cu orice preț nu va da naștere niciodată mecanismelor de care avem nevoie ca să ne recăpătăm această resursă atât de importantă așa că trebuie să facem tot ce ține de noi ca să ne ducem atenția cu intenție asupra lucrurilor care contează sa au scris mai multe cărți despre motivele care ne au condus în acest punct din prezent în care am devenit incapabili să ne concentrăm una dintre aceste cărți este <span class="highlight">atenție</span> scrisă de Gloria Marc o psihologă și profesoară la Universitatea din California unde Cercetează relația dintre tehnologie și om grupuri de oameni și societate și mai ales cum anume am devenit mai stresați din cauza tehnologiei pentru că asta e una dintre marile probleme în loc să ne ajute să ne ușureze munca și viața tehnologia a ajuns să ne streseze mai tare psihologul William James a fost printre primii oameni care s au dedicat studiului atenției el a spus că atenția este citez captarea de către minte într o formă clară și vie a unui singur element din ceea ce pare o multitudine de obiecte sau raționamente ultan posibile focalizarea concentrarea sunt
+                    </div>
+                </div>
+                
+                <div class="mention-card">
+                    <div class="mention-date">17 august 2024</div>
+                    <a href="https://youtu.be/MWAKs_7iusc?t=17:55" 
+                       class="mention-link" target="_blank">
+                        Patru mituri despre atenție. Vocea Nației #242
+                    </a>
+                    <div class="mention-text">
+                        obiective cu alte cuvinte să faci Mono tasking să te ocupi de un singur lucru în al doilea rând acea Activit trebuie să fie importantă pentru tine Asta e fundamental noi oamenii ca specie am evoluat acordând <span class="highlight">atenție</span> lucrurilor ce aveau o semnificație pentru noi e imposibil să intri într o stare de flux făcând ceva ce nu ți se pare relevant atunci când te forțezi să faci ceva fără semnificație pentru tine atenția îți zboară în alte locuri cel de al treilea element este dat de complexitate acel obiectiv pe care ți l setezi trebuie să fie la limita abilităților Tale dar să nu le depășească foarte interesant dacă Obiectivul e prea ușor intri pe pilot automat dacă e prea greu te vei simți anxios și de foarte multe ori vei abandona revenind la Gloria Marc cel de al treilea mit expus în cartea atenția este acela că distragerile și multitaskingul sunt provocate În primul rând de notificările primite și de lipsa autodisciplinei de aia e minunat să n avem telefonul lângă noi când facem ceva important ați văzut e e Incredibil ce panică ne apucă atunci când n avem telefonul în mână sau în raza noastră vizuală dar atenția ne e afectată de foarte multe lucruri Deci nu doar de asta printre care ora la care ne desfășurăm activ cât am dormit cât de bine am dormit dacă ne am odihnit sau nu despre somn am discutat des la Starea sănătății Uite dacă vrei să faci ceva pentru noi dacă n ai făcut o încă pune pauză la acest material mergi pe canalul starea sănătății și dă un like și acolo Mulțumim să știți că am făcut un experiment în ultimele două luni n am mai îndemnat lumea să dea like la Starea
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>
