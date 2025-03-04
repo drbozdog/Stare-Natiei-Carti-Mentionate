@@ -18,4 +18,4 @@ O colecție de cărți discutate și recomandate în emisiunea Starea Nației.
 2. Asigură-te că GitHub Pages este activat în setările repository-ului
 3. Site-ul va fi disponibil la URL-ul GitHub Pages
 
-Generat la: 2025-03-04 16:55:59
+Generat la: 2025-03-04 17:10:01
