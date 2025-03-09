@@ -1,4 +1,4 @@
-# Cărți Menționate în Starea Nației
+# Cărțile Nației
 
 O colecție de cărți discutate și recomandate în emisiunea Starea Nației.
 
@@ -18,4 +18,4 @@ O colecție de cărți discutate și recomandate în emisiunea Starea Nației.
 2. Asigură-te că GitHub Pages este activat în setările repository-ului
 3. Site-ul va fi disponibil la URL-ul GitHub Pages
 
-Generat la: 2025-03-04 17:39:18
+Generat la: 2025-03-09 07:35:36
