@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lupta mea - Detalii | Starea Nației</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .book-details {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px var(--shadow-color);
+            padding: 2rem;
+        }
+        
+        .book-header {
+            margin-bottom: 2rem;
+            text-align: center;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .book-title {
+            font-size: 2.5rem;
+            color: var(--text-color);
+            margin-bottom: 0.75rem;
+            line-height: 1.2;
+        }
+        
+        .book-author {
+            font-size: 1.4rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .external-link {
+            display: inline-block;
+            margin: 1.5rem 0;
+            padding: 0.8rem 1.5rem;
+            background: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            transition: background-color 0.3s ease;
+            font-size: 1.1rem;
+        }
+        
+        .external-link:hover {
+            background: #1976D2;
+        }
+        
+        .book-description {
+            margin: 2rem auto;
+            line-height: 1.8;
+            color: #444;
+            max-width: 800px;
+            font-size: 1.1rem;
+        }
+        
+        .mentions-section {
+            margin-top: 3rem;
+        }
+        
+        .mentions-section h3 {
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            color: var(--text-color);
+        }
+        
+        .mention-card {
+            margin: 1.5rem 0;
+            padding: 2rem;
+            background: var(--background-light);
+            border-radius: 8px;
+            box-shadow: 0 1px 3px var(--shadow-color);
+        }
+        
+        .mention-date {
+            color: #666;
+            font-size: 1rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        .mention-link {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        
+        .mention-text {
+            margin: 1rem 0;
+            line-height: 1.7;
+            color: #333;
+            font-size: 1.1rem;
+        }
+        
+        .back-link {
+            display: inline-block;
+            margin: 2rem 0;
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+        
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .book-title {
+                font-size: 2rem;
+            }
+            
+            .book-author {
+                font-size: 1.2rem;
+            }
+            
+            .mention-card {
+                padding: 1.5rem;
+            }
+            
+            .mention-text {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cărțile Nației</h1>
+    </header>
+
+    <main>
+        <div class="book-details">
+            <a href="#" class="back-link" onclick="history.back(); return false;">
+                <i class="fas fa-arrow-left"></i> Înapoi la lista de cărți
+            </a>
+            
+            <div class="book-header">
+                <h2 class="book-title">Lupta mea</h2>
+                <p class="book-author">de Karl Ove Knausgård</p>
+                <a href="https://www.libris.ro/lupta-mea-cartea-a-patra-dansand-in-intuneric-LIT978-606-33-1625-8--p1166011.html" class="external-link" target="_blank">Vezi detalii <i class="fas fa-external-link-alt"></i></a>
+            </div>
+
+            <div class="book-description">Roman autobiografic de o forta literara neobisnuita, cartea a doua a seriei Lupta mea a dat nastere unei polemici virulente si a primit inca de la aparitie numeroase premii. Knausgård descrie cu vigoare si exactitate etapele sentimentului de iubire si viata cotidiana.</div>
+
+            <div class="mentions-section">
+                <h3>Mențiuni în emisiune</h3>
+                
+                <div class="mention-card">
+                    <div class="mention-date">13 octombrie 2025</div>
+                    <a href="https://youtu.be/h72iKbELAk4?t=57:30" 
+                       class="mention-link" target="_blank">
+                        România în prelungiri: între fotbal, taxe și promisiuni de 300 de parlamentari | Starea Nației live
+                    </a>
+                    <div class="mention-text">
+                        părinții încă. Iar bătrânii n au încotro. Pentru că unii trebuie să și țină și copiii care la 35 de ani sunt încă acasă. Și aice e o discuție. Bă, mi ar fi o rușine, băi, aș intra în pământ pur și simplu să mă țină mama acasă din pensie la 30 de ani. Dar ce 30, 25? Doamne, aici e și vina părinților. Și uite, în familia mea, tata așa, cu toate problemele lui, băi, câteva lucruri le a făcut senzațional pe intuiție, pe Bă, ne a zis întotdeauna de când eram mici. De când eram mici eu cu soră mea, băi, alo, contractul meu cu statul român și cu oricine vreți voi în privința voastră se termină la 18 ani. Ne iubea la nebunie, dar voia și el să umble în curul gol prin casă pe la el. Da. și ne a repetat mereu că el nu concepe să ne țină după vârsta asta. În țările nordice așa se procedează. Uite, citiți <span class="highlight">lupta mea</span> de Knausgard. Apropo, vă recomand și deși nu m a dat pe spate, au sau poate așteptările mele erau prea mari și Luceaferă de dimineață, ficțiunea pe care Knausgard a scos o acum recent. Dar citiți <span class="highlight">lupta mea</span> să vedeți. Bă, acolo ai făcut. Ok, te duci la școală, te uiți la școală, du te la cămin, vezi ce ți mai trebuie. Țacapaca, ia ți un job, fă ceva, termină școala, du te acolo. Nu te țin, nu te țin. Așa că uite, eu muncesc de la 16 ani. Bă, când știi că la 18 ani trebuie să te cari de acasă sau plătești întreținere, altfel îți reglezi prioritățile. Da. Și atenție, nu sunt neapărat de acord cu modul ăsta de lucru, dar trebuie să l crești așa pe copil. Nu e că nu l ajuți când ajunge la 18 ani, îi dai un șut în curs să plece. În țările nordice se întâmplă treaba asta. Doar că el trebuie
+                    </div>
+                </div>
+                
+                <div class="mention-card">
+                    <div class="mention-date">7 ianuarie 2025</div>
+                    <a href="https://youtu.be/sJaIqdgB9Sg?t=50:57" 
+                       class="mention-link" target="_blank">
+                        Efectul Matei și aberațiile care distrug educația. Prof. Lomaca - Soluții pentru copiii din România
+                    </a>
+                    <div class="mention-text">
+                        este acoperit unde noi Îi scoatem afară dacă plouă doar dacă e ploaie torențială de îi face fleașcă și nu știu ce și le spunem ieșiți afară avem niște umbrele separate să le mai dăm umbrelă de obicei au glu și se joacă în pauză afară sau frig cât de frig să fie că Bineînțeles că dacă s minus 20 nu i lași Dar în ultimul timp nu mai sunt niciun minus 20 da nici nu Măcar atât uite ce foarte interesant foarte multe lucruri interesante despre sistemul nordic de de învăță ă mânt am aflat din cărțile lui Carl lovec naus gard norvegian a scris <span class="highlight">Lupta mea</span> un roman autobiografic de 3600 de pagini și el Povestește acolo foarte multe lucruri s a dus când avea 18 ani suplinitor la o școală de asta în vârful muntelui și erai obligat să ieși cu copiii în pauză în curte Nici nu ți era permis pe prin lege să stai cu ei în clasă erau obligați să iasă afară min 20 min și la aia niște temperaturi de toată lumea afară toată lumea se joacă toată lumea după ce se termină treaba afară intră în clasă da da Și tu
+                    </div>
+                </div>
+                
+                <div class="mention-card">
+                    <div class="mention-date">8 aprilie 2024</div>
+                    <a href="https://youtu.be/JlVKrCOqrdE?t=43:05" 
+                       class="mention-link" target="_blank">
+                        Alo, tineretu&#x27;, vouă vi s-a urât cu binele? SN LIVE 8 aprilie 2024
+                    </a>
+                    <div class="mention-text">
+                        asta Noi românii noi zicem asta în fiecare zi bă pe noi ne doare fix în fund despre să nu mai vorbesc urât că se supără Raluca despre situația din spitale ne doare fix la spate nici măcar acolo De ce se întâmplă cu educația Nu ne interesează Nu nu suntem interesați de treaba asta maximum suntem interesați cât se află copiii noștri în diverse situații dar în rest nu ne interesează de ce Pentru că această societate imbecilă ne educă să căutăm permanent exclusiv salvări personale Nu e despre noi despre comunitate despre ce putem să facem împreună iar la întrebarea ta să răspund direct și foarte scurt Joe Ce poți să faci tu sau joie sau joie sau cum vrei să spui ce poți să faci tu este să te aduni cu alții pentru că singur nu poți să faci nimic nimeni cum spune knaus gard foarte mișto în cartea a cincea din <span class="highlight">Lupta mea</span> nimeni nu poate fi o insulă Da Și atunci dacă ne strângem putem să facem diferența putem să îi obligăm pe ăștia care ne conduc să facă lucruri dar dacă pe noi Nu ne interesează Nu e mă niciun fel de problemă Nu e niciun fel de problemă dacă stăm și nu ne interesează aia uite vorbeam și cu unii dintre părinți la mine acolo la la Ploiești bă au tăiat au venit ăștia Le a zis asta Roberta anastase Ce să facă au tăiat bugetul la CSM antrenorii de acum de la 1 aprilie niciun antrenor nu mai are contract nu mai are nimic bă s 1700 de copii Bă nu s a întâmplat niciun fel de manifestație în fața primăriei n a fost nimeni acasă la niciun consilier local eu vreau să mă duc că eu vreau să iau la rând Dar nimeni nu pare interesat de situație că nu mai au antrenorii nu mai primesc bani
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>
