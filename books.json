@@ -7999,20 +7999,6 @@
       ]
     },
     {
-      "title": "Roșia Montană - Social Representations Around an Environmental Controversy in Romania",
-      "author": "Alina Pop",
-      "is_recommendation": false,
-      "info_link": "https://books.google.com/books/about/Roșia_Montană_Social_Representations_A.html?id=B_uKoAEACAAJ",
-      "mentions": [
-        {
-          "video_id": "MG4G9EkcW1E",
-          "video_title": "Dezvăluiri: Georgescu & aurul României. Extra: Șeful ANAF se dă de gol. Starea Nației & RISE Project",
-          "timestamp": "48:27",
-          "mention_date": "2025-09-18T00:00:00"
-        }
-      ]
-    },
-    {
       "title": "Sapiens: A Brief History of Humankind",
       "author": "Yuval Noah Harari",
       "is_recommendation": false,
@@ -8881,6 +8867,6 @@
       ]
     }
   ],
-  "total_books": 417,
-  "last_updated": "2025-10-19T14:07:10.987167"
+  "total_books": 416,
+  "last_updated": "2025-10-19T14:10:24.880484"
 }

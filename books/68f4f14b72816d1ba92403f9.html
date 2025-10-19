@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Haret - Detalii | Starea Nației</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .book-details {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px var(--shadow-color);
+            padding: 2rem;
+        }
+        
+        .book-header {
+            margin-bottom: 2rem;
+            text-align: center;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .book-title {
+            font-size: 2.5rem;
+            color: var(--text-color);
+            margin-bottom: 0.75rem;
+            line-height: 1.2;
+        }
+        
+        .book-author {
+            font-size: 1.4rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .external-link {
+            display: inline-block;
+            margin: 1.5rem 0;
+            padding: 0.8rem 1.5rem;
+            background: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            transition: background-color 0.3s ease;
+            font-size: 1.1rem;
+        }
+        
+        .external-link:hover {
+            background: #1976D2;
+        }
+        
+        .book-description {
+            margin: 2rem auto;
+            line-height: 1.8;
+            color: #444;
+            max-width: 800px;
+            font-size: 1.1rem;
+        }
+        
+        .mentions-section {
+            margin-top: 3rem;
+        }
+        
+        .mentions-section h3 {
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            color: var(--text-color);
+        }
+        
+        .mention-card {
+            margin: 1.5rem 0;
+            padding: 2rem;
+            background: var(--background-light);
+            border-radius: 8px;
+            box-shadow: 0 1px 3px var(--shadow-color);
+        }
+        
+        .mention-date {
+            color: #666;
+            font-size: 1rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        .mention-link {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        
+        .mention-text {
+            margin: 1rem 0;
+            line-height: 1.7;
+            color: #333;
+            font-size: 1.1rem;
+        }
+        
+        .back-link {
+            display: inline-block;
+            margin: 2rem 0;
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+        
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .book-title {
+                font-size: 2rem;
+            }
+            
+            .book-author {
+                font-size: 1.2rem;
+            }
+            
+            .mention-card {
+                padding: 1.5rem;
+            }
+            
+            .mention-text {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cărțile Nației</h1>
+    </header>
+
+    <main>
+        <div class="book-details">
+            <a href="#" class="back-link" onclick="history.back(); return false;">
+                <i class="fas fa-arrow-left"></i> Înapoi la lista de cărți
+            </a>
+            
+            <div class="book-header">
+                <h2 class="book-title">The Haret</h2>
+                <p class="book-author">de Denise (Daisy) Parton</p>
+                <a href="https://www.amazon.com/Haret-Book-1-ebook/dp/B0057CVWGC" class="external-link" target="_blank">Vezi detalii <i class="fas fa-external-link-alt"></i></a>
+            </div>
+
+            <div class="book-description">Londyn Rebold has a haunting secret, but before she can tell her best friend, she mysteriously disappears. Unnerved by her disappearance, her small town unites to search for their missing teen. During the investigation, a peculiar Nocturnal Journal is discovered, hidden in her bedroom. The journal reveals cryptic messages along with detailed encounters with an enticing nighttime visitor. A week later, Londyn is found roaming the woods, confused and unaware of where she has spent the past seven days. With the help of her estranged grandmother, Londyn finds the answers to the secrets surrounding her missing week and traces her roots back ten generations, making a startling discovery that someone very close to her is not who they seem.</div>
+
+            <div class="mentions-section">
+                <h3>Mențiuni în emisiune</h3>
+                
+                <div class="mention-card">
+                    <div class="mention-date">21 februarie 2024</div>
+                    <a href="https://youtu.be/dyJkqgVjD9A?t=74:00" 
+                       class="mention-link" target="_blank">
+                        Gelu Duminică, sociolog. Macarena, femeia bătută, alegeri, educație, Cățeluș cu părul creț și plm.
+                    </a>
+                    <div class="mention-text">
+                        stăteam de n aveam Bă copiii din ziua de astăzi nu mai știu să vorbeasc Bă dacă noi aveam Facebook la fel de alienați eram poate mai rău mm Da dar noi n aveam în sociologie se spune un comportament depinde de context și de situație noi comparăm merele cu perle corect n au or file fructe N au niciun gust mhm da e noi cred că trebuie să ni le luăm periodic până când o să învățăm să cumpărăm merele cu mere În momentul de față noi ne raportăm foarte mișto regalitatea Ce bine era bă România interbelică b peă dracu eram ultimii din Europa la toate capitolele și atunci sigur ne au scos ăia din mocirlă sigur că eram în mocirlă până atunci Da că a fost o perioadă cea mai bună perioadă de Până atunci pe care România a avut o sigur că da măi dar tot ultimul din Europa la Educație eram ultimii Citiți l pe Gusti să vedeți ce indicatori aveam în anii 30 40 marea perioadă interbelică Da noi uităm că Haret da a făcut a dus școala la țară că n am avut școală la țară până la Haret noi îl vedem pe Haret marele reformator în educație pentru că a dus școala voi vă înțelegeți mă că noi de asta îl vedem reformator în educație că a dus al acolo unde nu era că unde nu era și de ce a dus o pentru că ăsta regele venea zicea bă schimbați pe cine vreți voi dar harți să rămână la educațiune pentru că omul ăla dintr o mentalitate occidentală da cu știință de carte știa că educație e investiție pe termen lung și zicea Băi ai nevoie de stabilitate de un plan bun vreți să schimba societatea asta pă la Educație Trebuie să ducem prima dată educ fel c domnul Iohannis cu e educat Da adică Oamenii au avut un alt și
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>

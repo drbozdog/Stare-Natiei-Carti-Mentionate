@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miorița - Detalii | Starea Nației</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .book-details {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px var(--shadow-color);
+            padding: 2rem;
+        }
+        
+        .book-header {
+            margin-bottom: 2rem;
+            text-align: center;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .book-title {
+            font-size: 2.5rem;
+            color: var(--text-color);
+            margin-bottom: 0.75rem;
+            line-height: 1.2;
+        }
+        
+        .book-author {
+            font-size: 1.4rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .external-link {
+            display: inline-block;
+            margin: 1.5rem 0;
+            padding: 0.8rem 1.5rem;
+            background: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            transition: background-color 0.3s ease;
+            font-size: 1.1rem;
+        }
+        
+        .external-link:hover {
+            background: #1976D2;
+        }
+        
+        .book-description {
+            margin: 2rem auto;
+            line-height: 1.8;
+            color: #444;
+            max-width: 800px;
+            font-size: 1.1rem;
+        }
+        
+        .mentions-section {
+            margin-top: 3rem;
+        }
+        
+        .mentions-section h3 {
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            color: var(--text-color);
+        }
+        
+        .mention-card {
+            margin: 1.5rem 0;
+            padding: 2rem;
+            background: var(--background-light);
+            border-radius: 8px;
+            box-shadow: 0 1px 3px var(--shadow-color);
+        }
+        
+        .mention-date {
+            color: #666;
+            font-size: 1rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        .mention-link {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        
+        .mention-text {
+            margin: 1rem 0;
+            line-height: 1.7;
+            color: #333;
+            font-size: 1.1rem;
+        }
+        
+        .back-link {
+            display: inline-block;
+            margin: 2rem 0;
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+        
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .book-title {
+                font-size: 2rem;
+            }
+            
+            .book-author {
+                font-size: 1.2rem;
+            }
+            
+            .mention-card {
+                padding: 1.5rem;
+            }
+            
+            .mention-text {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cărțile Nației</h1>
+    </header>
+
+    <main>
+        <div class="book-details">
+            <a href="#" class="back-link" onclick="history.back(); return false;">
+                <i class="fas fa-arrow-left"></i> Înapoi la lista de cărți
+            </a>
+            
+            <div class="book-header">
+                <h2 class="book-title">Miorița</h2>
+                <p class="book-author">de Vasile Alecsandri</p>
+                <a href="https://en.wikipedia.org/wiki/Miorița" class="external-link" target="_blank">Vezi detalii <i class="fas fa-external-link-alt"></i></a>
+            </div>
+
+            <div class="book-description">Miorița is an iconic Romanian pastoral ballad, highly significant in Romanian folklore. It tells the story of three shepherds and the mystical foretelling of a murder plot by one of their sheep. The poem explores themes of fate, nature, and cultural values. The most noted version was by Vasile Alecsandri, published in 1850, although it is based on much older oral traditions.</div>
+
+            <div class="mentions-section">
+                <h3>Mențiuni în emisiune</h3>
+                
+                <div class="mention-card">
+                    <div class="mention-date">21 februarie 2024</div>
+                    <a href="https://youtu.be/dyJkqgVjD9A?t=91:06" 
+                       class="mention-link" target="_blank">
+                        Gelu Duminică, sociolog. Macarena, femeia bătută, alegeri, educație, Cățeluș cu părul creț și plm.
+                    </a>
+                    <div class="mention-text">
+                        luat o să n o păzesc de alții Nu dar și ăsta cățelușul cu părul creț era bărbat Băi o dată Doi bă d dracu toți suntem cu părul lins Dar aia cu creț Da bun Hai să continuăm da Și vă spun doar așa în mare că poezie puțin mai lunguță față de ceea ce știm noi și cu un buzunar hai la sfatul popular și peă Guța Da să fie să nu știu ce Gândiți vă că poezia asta în înt în integralitatea ei reprezintă Cam tot ceea ce noi zicem că urâm în societatea asta minciună Da fugă de responsabilitate corupție și ar fi foarte mișto să învățăm poezia În cheia asta dar nu se întâmplă Ai văzut Da de foarte multe ori Noi transmitem valorile mizerii pe care noi o arătăm cu degetul cu zâmbetul pe buze fără s o contextualiza și sunt zeci de poezii cărți romane Deci oameni buni studiate la școală exact Nu vă nu Citiți șo nu mă începeți cu astea așa Da începeți cu balada <span class="highlight">miorița</span> și vedeți Care sunt valorile care ne sunt date acolo cum Da capitalul simbolic este ridicat fala oi mai multe mândre și curnut cum urea față de minoritari de de ceilalți este transformată la Rang de Artă Uitați vă la Mănăstirea Da uitați vă la Mănăstirea Argeșului Da și vedeți cum la un final Vodă când Manole zice băi pot să construiesc o mănăstire mai șmecheră ca asta Vodă îi zice mord Dă te dracu și i a luat scările rămâi dracu acolo fala mândria Ăl mai tare și mai mare mare Da uitați vă la toate valorile asa nu mai zic că de zidit zidim tot o femeie Da a as Nu mai spunem Da uitați vă la toate valorile astea Uitați vă la omul negru din poveste pe care noi l am văzut ca e talonul Răului Uitați vă la femeia da Care a fost întotdeauna
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>
