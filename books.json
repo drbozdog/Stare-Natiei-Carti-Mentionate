@@ -1,6 +1,20 @@
 {
   "books": [
     {
+      "title": "(My) Struggle",
+      "author": "Karl Ove Knausgaard",
+      "is_recommendation": true,
+      "info_link": "https://en.wikipedia.org/wiki/My_Struggle_(Knausgård_novels)",
+      "mentions": [
+        {
+          "video_id": "Jr0YzL9zbvo",
+          "video_title": "Interviu cu Costi Rogozanu | Starea Nației LIVE 10.09.2025",
+          "timestamp": "77:17",
+          "mention_date": "2025-09-12T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "140 Artists' Ideas for Planet Earth",
       "author": "Hans Ulrich Obrist, Kostas Stasinopoulos",
       "is_recommendation": true,
@@ -52,7 +66,19 @@
           "video_id": "wAJFEd6NXxw",
           "video_title": "Obiective bune, obiective rele | Vocea Nației 214",
           "timestamp": "14:52",
-          "mention_date": "2024-01-13T00:00:00"
+          "mention_date": "2025-03-04T04:19:58.267000"
+        },
+        {
+          "video_id": "w0AamjgG1QE",
+          "video_title": "Revenirea la capitalismul de bază. O nostalgie periculoasă. Vocea Nației #273",
+          "timestamp": "16:48",
+          "mention_date": "2025-05-03T00:00:00"
+        },
+        {
+          "video_id": "IqBYy3-Fbzk",
+          "video_title": "Vom fi înlocuiți de roboți? 3 scenarii posibile. Vocea Nației #271",
+          "timestamp": "22:16",
+          "mention_date": "2025-06-22T06:40:22.311000"
         }
       ]
     },
@@ -135,6 +161,48 @@
       ]
     },
     {
+      "title": "Acasă, pe drum. 4 ani teleleu",
+      "author": "Elena Stancu și Cosmin Bumbuț",
+      "is_recommendation": true,
+      "info_link": "https://www.libris.ro/acasa-pe-drum-4-ani-teleleu-elena-stancu-HUM978-973-50-5889-0--p1251090.html",
+      "mentions": [
+        {
+          "video_id": "gN6MNa17Fjc",
+          "video_title": "Bugetarii ne iau joburile! Gâdea vs. Crin Antenistu. Neamțu, puținist vulgar. Starea Nației 01.04.25",
+          "timestamp": "16:04",
+          "mention_date": "2025-04-01T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Adam și Eva",
+      "author": "Liviu Rebreanu",
+      "is_recommendation": true,
+      "info_link": "https://ro.wikipedia.org/wiki/Adam_și_Eva_(roman)",
+      "mentions": [
+        {
+          "video_id": "Jr0YzL9zbvo",
+          "video_title": "Interviu cu Costi Rogozanu | Starea Nației LIVE 10.09.2025",
+          "timestamp": "26:43",
+          "mention_date": "2025-09-12T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Against Meritocracy",
+      "author": "Jo Littler",
+      "is_recommendation": true,
+      "info_link": "https://www.taylorfrancis.com/books/oa-mono/10.4324/9781315712802/meritocracy-jo-littler",
+      "mentions": [
+        {
+          "video_id": "niypZ_NqPaM",
+          "video_title": "Cazul cu copiii din spitalul Iași. Alegeri Moldova. Despre cumulul pensie+salariu | SN LIVE 29.09.25",
+          "timestamp": "74:10",
+          "mention_date": "2025-09-29T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Age of Revolutions: Progress and Backlash from 1600 to the Present",
       "author": "Fareed Zakaria",
       "is_recommendation": true,
@@ -178,7 +246,7 @@
           "video_id": "uY3Ncd8Xx00",
           "video_title": "Un milion de tineri votează pentru prima dată. Sunt pregătiți? Vocea Nației #234",
           "timestamp": "17:29",
-          "mention_date": "2024-06-08T00:00:00"
+          "mention_date": "2025-03-03T20:14:19.015000"
         },
         {
           "video_id": "AQ6kYbhsYUM",
@@ -197,6 +265,12 @@
           "video_title": "Copiii de azi vor modela viitorul. Cu ce abilități îi echipăm? Vocea Nației #220",
           "timestamp": "21:48",
           "mention_date": "2025-03-04T04:16:26.862000"
+        },
+        {
+          "video_id": "MvXpwHemWeU",
+          "video_title": "De ce ajung oamenii narcisiști și paranoici la putere? Vocea Nației #292",
+          "timestamp": "19:52",
+          "mention_date": "2025-09-27T00:00:00"
         }
       ]
     },
@@ -234,7 +308,7 @@
           "video_id": "2Fqlvip6Fys",
           "video_title": "Taxarea fără reprezentare este tiranie. Vocea Nației #263",
           "timestamp": "08:48",
-          "mention_date": "2025-02-22T00:00:00"
+          "mention_date": "2025-02-26T15:33:50.783000"
         },
         {
           "video_id": "QzoOlys6vWU",
@@ -261,6 +335,24 @@
           "mention_date": "2025-03-04T04:10:57.276000"
         },
         {
+          "video_id": "sX98JIDp0xo",
+          "video_title": "Războiul pentru mințile oamenilor se dă cu arme noi. Vocea Nației #277",
+          "timestamp": "04:47",
+          "mention_date": "2025-06-22T06:33:59.600000"
+        },
+        {
+          "video_id": "sX98JIDp0xo",
+          "video_title": "Războiul pentru mințile oamenilor se dă cu arme noi. Vocea Nației #277",
+          "timestamp": "06:12",
+          "mention_date": "2025-06-22T06:33:59.600000"
+        },
+        {
+          "video_id": "vbJEqpHhdf4",
+          "video_title": "Cum se instalează tirania? 20 de lecții din trecut. Vocea Nației #267",
+          "timestamp": "15:42",
+          "mention_date": "2025-10-19T08:36:49.195000"
+        },
+        {
           "video_id": "TV2pNuE64fM",
           "video_title": "Rareș=Șoșoacă+Simion. Rețelele de antisocializare. Câtă prostie la Ciucă! | Starea Nației 13.08.2024",
           "timestamp": "10:22",
@@ -271,6 +363,12 @@
           "video_title": "Grija pentru sfârșitul lunii vs. cea pentru sfârșitul lumii | Vocea Nației 217",
           "timestamp": "13:29",
           "mention_date": "2025-03-04T04:18:15.837000"
+        },
+        {
+          "video_id": "oz6f4L7GpJ0",
+          "video_title": "De ce nu au românii încredere în alți oameni? Vocea nației #289",
+          "timestamp": "21:55",
+          "mention_date": "2025-09-06T00:00:00"
         }
       ]
     },
@@ -382,7 +480,7 @@
           "video_id": "LtDq8H6v5sw",
           "video_title": "O idee: limitarea bogăției. Capitalul, noul Dumnezeu. NORDIS &amp; politicienii. Sărăkia Nației 06.02.25",
           "timestamp": "21:39",
-          "mention_date": "2025-02-06T00:00:00"
+          "mention_date": "2025-02-17T19:06:04.043000"
         },
         {
           "video_id": "MWAKs_7iusc",
@@ -497,6 +595,24 @@
           "video_title": "Obiective bune, obiective rele | Vocea Nației 214",
           "timestamp": "20:41",
           "mention_date": "2025-03-04T04:19:58.267000"
+        },
+        {
+          "video_id": "sX98JIDp0xo",
+          "video_title": "Războiul pentru mințile oamenilor se dă cu arme noi. Vocea Nației #277",
+          "timestamp": "04:47",
+          "mention_date": "2025-05-31T00:00:00"
+        },
+        {
+          "video_id": "IqBYy3-Fbzk",
+          "video_title": "Vom fi înlocuiți de roboți? 3 scenarii posibile. Vocea Nației #271",
+          "timestamp": "06:00",
+          "mention_date": "2025-06-22T06:40:22.311000"
+        },
+        {
+          "video_id": "IqBYy3-Fbzk",
+          "video_title": "Vom fi înlocuiți de roboți? 3 scenarii posibile. Vocea Nației #271",
+          "timestamp": "07:58",
+          "mention_date": "2025-06-22T06:40:22.311000"
         }
       ]
     },
@@ -537,6 +653,26 @@
           "video_title": "Sensul vieții sau un sens în viață? Despre autonomie, competență și conectivitate. Vocea Nației #225",
           "timestamp": "32:51",
           "mention_date": "2024-03-30T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Bani: O poveste a omenirii",
+      "author": "David McWilliams",
+      "is_recommendation": true,
+      "info_link": "https://www.goodreads.com/book/show/222248280-bani",
+      "mentions": [
+        {
+          "video_id": "yiTwITgpjgc",
+          "video_title": "Democrație vs. oligarhie. Soluția la anxietate politică. Vocea Nației #265",
+          "timestamp": "06:27",
+          "mention_date": "2025-03-08T00:00:00"
+        },
+        {
+          "video_id": "LtDq8H6v5sw",
+          "video_title": "O idee: limitarea bogăției. Capitalul, noul Dumnezeu. NORDIS &amp; politicienii. Sărăkia Nației 06.02.25",
+          "timestamp": "19:49",
+          "mention_date": "2025-02-17T19:06:04.043000"
         }
       ]
     },
@@ -621,6 +757,12 @@
       "info_link": "https://www.goodreads.com/book/show/36244448-ce-este-populismul",
       "mentions": [
         {
+          "video_id": "wM5xfnB-q00",
+          "video_title": "Ce urmează: matematică sau limba rusă? | Starea Nației LIVE 5 mai 2025",
+          "timestamp": "41:50",
+          "mention_date": "2025-05-05T00:00:00"
+        },
+        {
           "video_id": "HaEU1BCfVvk",
           "video_title": "Cine sunt adevărații patrioți români I SN LIVE 13 ianuarie 2025",
           "timestamp": "38:09",
@@ -666,7 +808,7 @@
           "video_id": "ClO5EQ4s4sM",
           "video_title": "SUBIECTELE ZILEI + interviu cu Allen Coliban | Starea Nației LIVE 12 februarie 2025",
           "timestamp": "107:1",
-          "mention_date": "2025-02-12T00:00:00"
+          "mention_date": "2025-02-17T19:20:53.789000"
         },
         {
           "video_id": "OCTaaIgeplM",
@@ -722,7 +864,7 @@
           "video_id": "VvqKoJhMpLY",
           "video_title": "Școala e depășită. Învățarea în era informației. Vocea Nației #249",
           "timestamp": "03:41",
-          "mention_date": "2024-10-05T00:00:00"
+          "mention_date": "2025-03-03T19:55:13.481000"
         },
         {
           "video_id": "VvqKoJhMpLY",
@@ -741,6 +883,12 @@
           "video_title": "Trăim în cele mai bune vremuri? Progres tehnologic vs. progres social. Vocea Nației #230",
           "timestamp": "10:50",
           "mention_date": "2025-03-03T20:16:57.850000"
+        },
+        {
+          "video_id": "rvbIVJieVwA",
+          "video_title": "Cotă unică sau progresiv? De ce săracii țin cu bogații. Să facem ca rușii | Starea Nației 12.06.25",
+          "timestamp": "42:20",
+          "mention_date": "2025-06-12T00:00:00"
         }
       ]
     },
@@ -806,7 +954,13 @@
           "video_id": "XJmuXrN2cQA",
           "video_title": "Emisiune pentru ambele Românii. Schengen pe jos. Dna Cristela de la Sănătate. Starea Nației 12.12.24",
           "timestamp": "50:29",
-          "mention_date": "2024-12-12T00:00:00"
+          "mention_date": "2025-02-15T15:54:10.429000"
+        },
+        {
+          "video_id": "oz6f4L7GpJ0",
+          "video_title": "De ce nu au românii încredere în alți oameni? Vocea nației #289",
+          "timestamp": "21:55",
+          "mention_date": "2025-09-06T00:00:00"
         }
       ]
     },
@@ -948,7 +1102,7 @@
           "video_id": "8gqupeY6HmM",
           "video_title": "Ce votăm. De ce e important. Calea pro-europeană și pro-NATO. Starea Nației 30.11.2024",
           "timestamp": "37:35",
-          "mention_date": "2024-11-30T00:00:00"
+          "mention_date": "2025-02-15T16:03:44.877000"
         },
         {
           "video_id": "-yCtWRV_kcw",
@@ -991,6 +1145,18 @@
           "video_title": "De ce eșuează națiunile? Vocea Nației #252",
           "timestamp": "26:08",
           "mention_date": "2025-03-03T19:53:34.078000"
+        },
+        {
+          "video_id": "yGr83oqCbDk",
+          "video_title": "Explicațiile georgiștilor. Regulile din AUR. Kakaya dezbatere? CG la Vatican! Starea Nației 06.05.25",
+          "timestamp": "06:49",
+          "mention_date": "2025-05-06T00:00:00"
+        },
+        {
+          "video_id": "yGr83oqCbDk",
+          "video_title": "Explicațiile georgiștilor. Regulile din AUR. Kakaya dezbatere? CG la Vatican! Starea Nației 06.05.25",
+          "timestamp": "32:46",
+          "mention_date": "2025-06-22T06:38:32.362000"
         }
       ]
     },
@@ -1043,6 +1209,20 @@
           "video_title": "Omul Consumator. Practica de a fi cetățean. Poveștile modelează societățile. Vocea Nației #219",
           "timestamp": "03:45",
           "mention_date": "2024-02-17T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Creierul Ecranului",
+      "author": "Anders Hansen",
+      "is_recommendation": true,
+      "info_link": "https://www.publica.ro/anders-hansen-creierul-ecranului.html",
+      "mentions": [
+        {
+          "video_id": "JhWOedChgik",
+          "video_title": "Cea mai tristă primă zi de școală. De unde mai găsim speranță? | Vocea Nației #290",
+          "timestamp": "10:34",
+          "mention_date": "2025-09-13T00:00:00"
         }
       ]
     },
@@ -1206,13 +1386,25 @@
           "video_id": "cQsr94Jo1BI",
           "video_title": "LIVE: Interviu Dragoș Stanca, antreprenor, expert media și investitor în startup-uri tech",
           "timestamp": "107:1",
-          "mention_date": "2024-12-20T00:00:00"
+          "mention_date": "2025-02-13T17:25:58.525000"
         },
         {
           "video_id": "w3RhuLmICzs",
           "video_title": "1 Aprilie, Ziua Națională a României I SN Live 1 aprilie 2024",
           "timestamp": "57:23",
           "mention_date": "2025-03-03T20:22:46.726000"
+        },
+        {
+          "video_id": "bxZm7nMWIMY",
+          "video_title": "Ciolacu, beleaua is coming. Cum s-a născut furia georgistă. Canada în UE! Starea Nației 18.03.25",
+          "timestamp": "21:03",
+          "mention_date": "2025-10-19T08:37:14.398000"
+        },
+        {
+          "video_id": "KqLimXXT7RU",
+          "video_title": "Trump, Rogobete, paracetamol. Libertate, dictatori & umor. Lecția din Moldova. Starea Nației 23.9.25",
+          "timestamp": "15:08",
+          "mention_date": "2025-09-23T00:00:00"
         }
       ]
     },
@@ -1294,13 +1486,19 @@
           "video_id": "uY3Ncd8Xx00",
           "video_title": "Un milion de tineri votează pentru prima dată. Sunt pregătiți? Vocea Nației #234",
           "timestamp": "17:29",
-          "mention_date": "2024-06-08T00:00:00"
+          "mention_date": "2025-03-03T20:14:19.015000"
         },
         {
           "video_id": "AQ6kYbhsYUM",
           "video_title": "Copiii de azi vor modela viitorul. Cu ce abilități îi echipăm? Vocea Nației #220",
           "timestamp": "19:23",
           "mention_date": "2025-03-04T04:16:26.862000"
+        },
+        {
+          "video_id": "MvXpwHemWeU",
+          "video_title": "De ce ajung oamenii narcisiști și paranoici la putere? Vocea Nației #292",
+          "timestamp": "19:52",
+          "mention_date": "2025-09-27T00:00:00"
         }
       ]
     },
@@ -1574,7 +1772,19 @@
           "video_id": "QzoOlys6vWU",
           "video_title": "ȘTIRILE ZILEI. Interviu cu scriitorul Radu Vancu. Obligații morale. Pericolul Trump. SN LIVE 19.2.25",
           "timestamp": "93:53",
-          "mention_date": "2025-02-19T00:00:00"
+          "mention_date": "2025-02-26T15:54:15.026000"
+        },
+        {
+          "video_id": "yGr83oqCbDk",
+          "video_title": "Explicațiile georgiștilor. Regulile din AUR. Kakaya dezbatere? CG la Vatican! Starea Nației 06.05.25",
+          "timestamp": "06:49",
+          "mention_date": "2025-05-06T00:00:00"
+        },
+        {
+          "video_id": "XecC440PuJY",
+          "video_title": "Regulile scrise ale democrației nu ne protejează de tiranie. Vocea Nației #266",
+          "timestamp": "19:50",
+          "mention_date": "2025-10-19T08:37:43.649000"
         }
       ]
     },
@@ -1683,6 +1893,20 @@
       ]
     },
     {
+      "title": "Economia: The Broad Field of Economics Revealed",
+      "author": "Kapil S. Joshi",
+      "is_recommendation": true,
+      "info_link": "https://www.barnesandnoble.com/w/economia-kapil-s-joshi/1146643030",
+      "mentions": [
+        {
+          "video_id": "rvbIVJieVwA",
+          "video_title": "Cotă unică sau progresiv? De ce săracii țin cu bogații. Să facem ca rușii | Starea Nației 12.06.25",
+          "timestamp": "43:29",
+          "mention_date": "2025-06-12T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Economie utilă pentru vremuri dificile",
       "author": "Abhijit Banerjee, Esther Duflo",
       "is_recommendation": true,
@@ -1698,7 +1922,7 @@
           "video_id": "kRPslseJhjo",
           "video_title": "Economia predată în facultăți, o lume imaginară. Vocea Nației #261",
           "timestamp": "25:31",
-          "mention_date": "2025-02-08T00:00:00"
+          "mention_date": "2025-02-17T19:32:37.718000"
         },
         {
           "video_id": "Z-pbvKpoLXQ",
@@ -1729,6 +1953,12 @@
           "video_title": "Cum ne afectează minciunile Ciolacului. Ce înțelege el din economie: NIMIC. Starea Nației 29.02.2024",
           "timestamp": "55:58",
           "mention_date": "2025-03-04T04:15:55.650000"
+        },
+        {
+          "video_id": "oz6f4L7GpJ0",
+          "video_title": "De ce nu au românii încredere în alți oameni? Vocea nației #289",
+          "timestamp": "21:55",
+          "mention_date": "2025-09-06T00:00:00"
         },
         {
           "video_id": "uY3Ncd8Xx00",
@@ -1905,6 +2135,20 @@
       ]
     },
     {
+      "title": "Eseuri",
+      "author": "Umberto Eco",
+      "is_recommendation": true,
+      "info_link": "https://www.librariaonline.ro/autori/eco_umberto",
+      "mentions": [
+        {
+          "video_id": "mBBqNUhb2mA",
+          "video_title": "Șase dezbateri frumoase, remontada Barcelonei & alte remontade așteptate. Starea Nației LIVE 12.5.25",
+          "timestamp": "16:26",
+          "mention_date": "2025-05-12T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Femei Invizibile",
       "author": "Caroline Criado Perez",
       "is_recommendation": true,
@@ -1961,6 +2205,20 @@
           "video_title": "DESCIFRAT: mecanismul prin care produsul Călin Georgescu a luat 2.000.000 voturi | SN LIVE 03.12.24",
           "timestamp": "139:4",
           "mention_date": "2025-02-15T15:59:27.380000"
+        }
+      ]
+    },
+    {
+      "title": "Generozitate infecțioasă",
+      "author": "Chris Anderson",
+      "is_recommendation": true,
+      "info_link": "https://www.publica.ro/chris-anderson-generozitate-infectioasa.html",
+      "mentions": [
+        {
+          "video_id": "SHKdTexXMZc",
+          "video_title": "Ușa către nelibertate a rămas închisă. Cum o menținem așa? Vocea Nației #276",
+          "timestamp": "07:31",
+          "mention_date": "2025-05-24T00:00:00"
         }
       ]
     },
@@ -2104,7 +2362,13 @@
           "video_id": "WRtdgKI_158",
           "video_title": "Sensul vieții sau un sens în viață? Despre autonomie, competență și conectivitate. Vocea Nației #225",
           "timestamp": "10:01",
-          "mention_date": "2024-03-30T00:00:00"
+          "mention_date": "2025-03-03T20:23:13.437000"
+        },
+        {
+          "video_id": "sX98JIDp0xo",
+          "video_title": "Războiul pentru mințile oamenilor se dă cu arme noi. Vocea Nației #277",
+          "timestamp": "18:46",
+          "mention_date": "2025-05-31T00:00:00"
         }
       ]
     },
@@ -2299,6 +2563,20 @@
       ]
     },
     {
+      "title": "Jurnalul Decretului",
+      "author": "None",
+      "is_recommendation": true,
+      "info_link": "https://jurnaluldecretului.ro/",
+      "mentions": [
+        {
+          "video_id": "tDp3fgwicCk",
+          "video_title": "Ipocriții de la AUR, partidul care urăște femeile. Cu nume, fapte, dovezi | Starea Nației 14.05.25",
+          "timestamp": "19:07",
+          "mention_date": "2025-06-22T06:36:56.222000"
+        }
+      ]
+    },
+    {
       "title": "Jurnalul fericirii",
       "author": "Nicolae Steinhardt",
       "is_recommendation": true,
@@ -2335,6 +2613,20 @@
           "video_title": "Să înțelegem de unde venim, ca să știm unde ne ducem. Vocea Nației #236",
           "timestamp": "26:57",
           "mention_date": "2024-06-22T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Kinderland",
+      "author": "Liliana Corobca",
+      "is_recommendation": true,
+      "info_link": "https://www.sevenstories.com/books/4558-kinderland",
+      "mentions": [
+        {
+          "video_id": "gN6MNa17Fjc",
+          "video_title": "Bugetarii ne iau joburile! Gâdea vs. Crin Antenistu. Neamțu, puținist vulgar. Starea Nației 01.04.25",
+          "timestamp": "16:04",
+          "mention_date": "2025-04-01T00:00:00"
         }
       ]
     },
@@ -2448,7 +2740,7 @@
           "video_id": "AiappqoS8mg",
           "video_title": "Oamenii sunt albine. Vocea Nației #238",
           "timestamp": "20:27",
-          "mention_date": "2024-07-20T00:00:00"
+          "mention_date": "2025-03-03T20:05:21.406000"
         },
         {
           "video_id": "tXv2FS6Shaw",
@@ -2461,6 +2753,38 @@
           "video_title": "Protestul & nunta. Diferența dintre Antena3 și Digi24. Ori suntem proști? | Starea Nației 18.01.2024",
           "timestamp": "40:48",
           "mention_date": "2025-03-04T04:19:33.666000"
+        },
+        {
+          "video_id": "JhWOedChgik",
+          "video_title": "Cea mai tristă primă zi de școală. De unde mai găsim speranță? | Vocea Nației #290",
+          "timestamp": "21:53",
+          "mention_date": "2025-09-13T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Lupta mea",
+      "author": "Karl Ove Knausgård",
+      "is_recommendation": true,
+      "info_link": "https://www.libris.ro/lupta-mea-cartea-a-patra-dansand-in-intuneric-LIT978-606-33-1625-8--p1166011.html",
+      "mentions": [
+        {
+          "video_id": "sJaIqdgB9Sg",
+          "video_title": "Efectul Matei și aberațiile care distrug educația. Prof. Lomaca - Soluții pentru copiii din România",
+          "timestamp": "50:57",
+          "mention_date": "2025-02-13T17:24:43.373000"
+        },
+        {
+          "video_id": "JlVKrCOqrdE",
+          "video_title": "Alo, tineretu', vouă vi s-a urât cu binele? SN LIVE 8 aprilie 2024",
+          "timestamp": "43:05",
+          "mention_date": "2025-03-03T20:21:25.783000"
+        },
+        {
+          "video_id": "h72iKbELAk4",
+          "video_title": "România în prelungiri: între fotbal, taxe și promisiuni de 300 de parlamentari | Starea Nației live",
+          "timestamp": "57:30",
+          "mention_date": "2025-10-13T00:00:00"
         }
       ]
     },
@@ -2568,7 +2892,13 @@
           "video_id": "LbaGx5o9acM",
           "video_title": "Interviu Theodor Paleologu, profesor Casa Paleologu | SN Live 11.12.2024",
           "timestamp": "34:11",
-          "mention_date": "2024-12-11T00:00:00"
+          "mention_date": "2025-02-15T15:55:00.649000"
+        },
+        {
+          "video_id": "i-T2pLZYQ9o",
+          "video_title": "De unde vine “generația de suflet”. Dumnezeu e progresist? Trump și Makaveli. Starea Nației 25.03.25",
+          "timestamp": "20:35",
+          "mention_date": "2025-03-25T00:00:00"
         }
       ]
     },
@@ -2700,7 +3030,7 @@
           "video_id": "iRplxJ9XeiI",
           "video_title": "Niciodată Georgescu. Bun-venit, Lege! Adio, frații Tate! Adio, Toni Greblă! Starea Nației 27.02.2025",
           "timestamp": "28:05",
-          "mention_date": "2025-02-27T00:00:00"
+          "mention_date": "2025-03-02T08:33:13.684000"
         },
         {
           "video_id": "_WRCnm1MGMA",
@@ -2719,6 +3049,18 @@
           "video_title": "Obiective bune, obiective rele | Vocea Nației 214",
           "timestamp": "24:25",
           "mention_date": "2025-03-04T04:19:58.267000"
+        },
+        {
+          "video_id": "9bmv19WWUKc",
+          "video_title": "De ce aceste întâlniri de sâmbătă dimineață sunt speciale? Paul Olteanu la Teatrul Nației cu Pătraru",
+          "timestamp": "29:48",
+          "mention_date": "2025-10-10T00:00:00"
+        },
+        {
+          "video_id": "eoyKMBbgP-o",
+          "video_title": "Cele trei Mari Neadevăruri. Cocoloșirea minților noastre. Vocea Nației #279",
+          "timestamp": "15:03",
+          "mention_date": "2025-06-22T06:31:23.225000"
         }
       ]
     },
@@ -2769,6 +3111,20 @@
       ]
     },
     {
+      "title": "Mitul Normalității",
+      "author": "Gabor Maté",
+      "is_recommendation": true,
+      "info_link": "https://www.bookuria.info/mitul-normalitatii-de-gabor-mate-trauma-boala-si-vindecarea-intr-o-cultura-toxica/",
+      "mentions": [
+        {
+          "video_id": "9bmv19WWUKc",
+          "video_title": "De ce aceste întâlniri de sâmbătă dimineață sunt speciale? Paul Olteanu la Teatrul Nației cu Pătraru",
+          "timestamp": "07:15",
+          "mention_date": "2025-10-10T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Moartea lui Ivan Ilici",
       "author": "Leo Tolstoy",
       "is_recommendation": true,
@@ -2806,7 +3162,7 @@
           "video_id": "achwoaNA84Q",
           "video_title": "ȘTIRILE ZILEI + Interviu cu George Haber, românul milionar &amp; vizionar din Silicon Valley | SN LIVE",
           "timestamp": "42:26",
-          "mention_date": "2025-01-29T00:00:00"
+          "mention_date": "2025-02-13T17:19:23.528000"
         },
         {
           "video_id": "oRjTbUUlYNY",
@@ -2891,6 +3247,18 @@
           "video_title": "Alo, tineretu', vouă vi s-a urât cu binele? SN LIVE 8 aprilie 2024",
           "timestamp": "59:02",
           "mention_date": "2025-03-03T20:21:25.783000"
+        },
+        {
+          "video_id": "mBBqNUhb2mA",
+          "video_title": "Șase dezbateri frumoase, remontada Barcelonei & alte remontade așteptate. Starea Nației LIVE 12.5.25",
+          "timestamp": "08:42",
+          "mention_date": "2025-05-12T00:00:00"
+        },
+        {
+          "video_id": "FRUV72bsXjU",
+          "video_title": "Ponta și inundațiile. Puțoiala USR-Lasconi. Premier analfabet, emisar țepar | Starea Nației 10.04.25",
+          "timestamp": "12:14",
+          "mention_date": "2025-06-22T06:41:33.904000"
         },
         {
           "video_id": "PrBxDq17nfM",
@@ -3010,7 +3378,7 @@
           "video_id": "2H-Mi4vjfdg",
           "video_title": "Guvernul nou care a mai fost. Crin revine din șomaj I SN LIVE 23 decembrie 2024",
           "timestamp": "109:0",
-          "mention_date": "2024-12-23T00:00:00"
+          "mention_date": "2025-02-13T17:25:10.336000"
         },
         {
           "video_id": "r1smc1BrSzM",
@@ -3023,6 +3391,12 @@
           "video_title": "Iohannis in the cyberspace. Fitch-ar a naibii de economie. Țața satului&#39;s on fire | SN LIVE 18.12.24",
           "timestamp": "99:48",
           "mention_date": "2025-02-13T17:33:59.021000"
+        },
+        {
+          "video_id": "uUHI4XsRgJU",
+          "video_title": "“Dacă nu ești cuminte, vine țiganul și te fură!” Mituri, prejudecăți și adevăruri despre romi",
+          "timestamp": "15:06",
+          "mention_date": "2025-10-17T00:00:00"
         }
       ]
     },
@@ -3050,13 +3424,43 @@
       "title": "O generație în pericol",
       "author": "Jonathan Haidt",
       "is_recommendation": true,
-      "info_link": "https://www.goodreads.com/book/show/220651685-o-genera-ie-n-pericol",
+      "info_link": "https://bookzone.ro/carte/o-generatie-in-pericol-bkz",
       "mentions": [
+        {
+          "video_id": "Ld3izRletQ8",
+          "video_title": "Cele 4 strategii prin care companiile de tehnologie evită reglementările. Vocea Nației #272",
+          "timestamp": "24:34",
+          "mention_date": "2025-06-22T06:39:48.165000"
+        },
+        {
+          "video_id": "TrrG2tvBaRA",
+          "video_title": "Adolescență. Ce fac copiii pe internet? Vocea Nației #270",
+          "timestamp": "04:00",
+          "mention_date": "2025-06-22T06:41:25.523000"
+        },
+        {
+          "video_id": "TrrG2tvBaRA",
+          "video_title": "Adolescență. Ce fac copiii pe internet? Vocea Nației #270",
+          "timestamp": "08:37",
+          "mention_date": "2025-06-22T06:41:25.523000"
+        },
+        {
+          "video_id": "9bmv19WWUKc",
+          "video_title": "De ce aceste întâlniri de sâmbătă dimineață sunt speciale? Paul Olteanu la Teatrul Nației cu Pătraru",
+          "timestamp": "19:57",
+          "mention_date": "2025-10-10T00:00:00"
+        },
         {
           "video_id": "cQsr94Jo1BI",
           "video_title": "LIVE: Interviu Dragoș Stanca, antreprenor, expert media și investitor în startup-uri tech",
           "timestamp": "51:54",
-          "mention_date": "2024-12-20T00:00:00"
+          "mention_date": "2025-02-13T17:25:58.525000"
+        },
+        {
+          "video_id": "9bmv19WWUKc",
+          "video_title": "De ce aceste întâlniri de sâmbătă dimineață sunt speciale? Paul Olteanu la Teatrul Nației cu Pătraru",
+          "timestamp": "25:17",
+          "mention_date": "2025-10-19T08:41:13.402000"
         }
       ]
     },
@@ -3084,7 +3488,13 @@
           "video_id": "WRtdgKI_158",
           "video_title": "Sensul vieții sau un sens în viață? Despre autonomie, competență și conectivitate. Vocea Nației #225",
           "timestamp": "05:31",
-          "mention_date": "2024-03-30T00:00:00"
+          "mention_date": "2025-03-03T20:23:13.437000"
+        },
+        {
+          "video_id": "DRde-bKzMxo",
+          "video_title": "O nouă explicație pentru voturile „anti-sistem”. Vocea Nației #268",
+          "timestamp": "21:35",
+          "mention_date": "2025-03-29T00:00:00"
         },
         {
           "video_id": "WRtdgKI_158",
@@ -3166,7 +3576,27 @@
           "video_id": "AQ6kYbhsYUM",
           "video_title": "Copiii de azi vor modela viitorul. Cu ce abilități îi echipăm? Vocea Nației #220",
           "timestamp": "15:18",
-          "mention_date": "2024-02-24T00:00:00"
+          "mention_date": "2025-03-04T04:16:26.862000"
+        },
+        {
+          "video_id": "MvXpwHemWeU",
+          "video_title": "De ce ajung oamenii narcisiști și paranoici la putere? Vocea Nației #292",
+          "timestamp": "19:52",
+          "mention_date": "2025-09-27T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Our Lives in Their Portfolios",
+      "author": "Brett Christophers",
+      "is_recommendation": true,
+      "info_link": "https://www.versobooks.com/products/2985-our-lives-in-their-portfolios-why-asset-managers-own-the-world",
+      "mentions": [
+        {
+          "video_id": "ItLldbrZcpU",
+          "video_title": "Ștefan Baghiu. Scriitor, cercetător literar, lector universitar. Scrisoare pentru salvarea Educației",
+          "timestamp": "49:13",
+          "mention_date": "2025-09-03T00:00:00"
         }
       ]
     },
@@ -3211,10 +3641,16 @@
       "info_link": "https://www.libris.ro/patriot-memorii-aleksei-navalnii-LIT978-630-342-287-9--p38402413.html",
       "mentions": [
         {
+          "video_id": "eZuDdDNuSRQ",
+          "video_title": "Ce înțeleg unii prin democrație & dictatură. Sclavii legii. Botniță & Vaccin. Starea Nației 13.03.25",
+          "timestamp": "32:43",
+          "mention_date": "2025-03-13T00:00:00"
+        },
+        {
           "video_id": "G9qtVh0vuP8",
           "video_title": "Starea Nației LIVE 17 februarie 2025",
           "timestamp": "20:45",
-          "mention_date": "2025-02-17T00:00:00"
+          "mention_date": "2025-02-17T19:17:05.945000"
         }
       ]
     },
@@ -3234,7 +3670,19 @@
           "video_id": "LtDq8H6v5sw",
           "video_title": "O idee: limitarea bogăției. Capitalul, noul Dumnezeu. NORDIS &amp; politicienii. Sărăkia Nației 06.02.25",
           "timestamp": "17:46",
-          "mention_date": "2025-02-06T00:00:00"
+          "mention_date": "2025-02-17T19:06:04.043000"
+        },
+        {
+          "video_id": "XecC440PuJY",
+          "video_title": "Regulile scrise ale democrației nu ne protejează de tiranie. Vocea Nației #266",
+          "timestamp": "06:12",
+          "mention_date": "2025-10-19T08:37:43.649000"
+        },
+        {
+          "video_id": "MG4G9EkcW1E",
+          "video_title": "Dezvăluiri: Georgescu & aurul României. Extra: Șeful ANAF se dă de gol. Starea Nației & RISE Project",
+          "timestamp": "48:27",
+          "mention_date": "2025-09-18T00:00:00"
         }
       ]
     },
@@ -3409,6 +3857,20 @@
       ]
     },
     {
+      "title": "Poveștile Copilăriei Vol 1",
+      "author": "None",
+      "is_recommendation": true,
+      "info_link": "https://minibooks.ro/products/poveștile-copilariei-vol-1",
+      "mentions": [
+        {
+          "video_id": "SmIm1zylXwA",
+          "video_title": "Interviu cu Gelu Duminică | Starea Nației LIVE 4 iunie 2025",
+          "timestamp": "08:30",
+          "mention_date": "2025-06-22T06:32:56.643000"
+        }
+      ]
+    },
+    {
       "title": "Power and Progress",
       "author": "Daron Acemoglu and Simon Johnson",
       "is_recommendation": true,
@@ -3452,7 +3914,13 @@
           "video_id": "2H-Mi4vjfdg",
           "video_title": "Guvernul nou care a mai fost. Crin revine din șomaj I SN LIVE 23 decembrie 2024",
           "timestamp": "66:04",
-          "mention_date": "2024-12-23T00:00:00"
+          "mention_date": "2025-02-13T17:25:10.336000"
+        },
+        {
+          "video_id": "JxcOccIa-cA",
+          "video_title": "Nu va fi ușor, că suntem în pom | Starea Nației LIVE 26 mai 2025",
+          "timestamp": "33:27",
+          "mention_date": "2025-05-26T00:00:00"
         }
       ]
     },
@@ -3538,7 +4006,7 @@
           "video_id": "PrBxDq17nfM",
           "video_title": "Când apare autoritarismul? Când statele fac prea mult? Sau prea puțin? Vocea Nației #258",
           "timestamp": "13:29",
-          "mention_date": "2024-12-21T00:00:00"
+          "mention_date": "2025-02-13T17:25:39.559000"
         },
         {
           "video_id": "8gqupeY6HmM",
@@ -3635,6 +4103,24 @@
           "video_title": "Starea Nației LIVE 22 ianuarie 2024",
           "timestamp": "42:33",
           "mention_date": "2025-03-04T04:19:17.410000"
+        },
+        {
+          "video_id": "RnacDq-WS8k",
+          "video_title": "Vrem dezbateri, nu concursuri cu proști! Românii, munca, ajutoarele sociale | Starea Nației 01.05.25",
+          "timestamp": "29:54",
+          "mention_date": "2025-05-01T00:00:00"
+        },
+        {
+          "video_id": "IqBYy3-Fbzk",
+          "video_title": "Vom fi înlocuiți de roboți? 3 scenarii posibile. Vocea Nației #271",
+          "timestamp": "04:14",
+          "mention_date": "2025-06-22T06:40:22.311000"
+        },
+        {
+          "video_id": "XecC440PuJY",
+          "video_title": "Regulile scrise ale democrației nu ne protejează de tiranie. Vocea Nației #266",
+          "timestamp": "19:50",
+          "mention_date": "2025-10-19T08:37:43.649000"
         }
       ]
     },
@@ -3736,7 +4222,13 @@
           "video_id": "NnDXwyCMzxs",
           "video_title": "Salariul minim european românesc. Ne bătură bulgarii. Daghestan-Românistan | Starea Nației 27.06.24",
           "timestamp": "30:31",
-          "mention_date": "2024-06-27T00:00:00"
+          "mention_date": "2025-02-17T18:49:33.079000"
+        },
+        {
+          "video_id": "JxGXOPEYw9I",
+          "video_title": "Netanyahu, Trump, Nicușor, Băsescu, Piketty, Năsui, Glăvan + alte tulburări | Starea Nației 17.06.25",
+          "timestamp": "23:43",
+          "mention_date": "2025-06-17T00:00:00"
         },
         {
           "video_id": "Ny0BNgvil14",
@@ -3885,10 +4377,22 @@
       "info_link": "https://www.libris.ro/slujbe-de-mare-rahat-david-graeber-ART978-630-321-454-2--p38416966.html",
       "mentions": [
         {
+          "video_id": "IqBYy3-Fbzk",
+          "video_title": "Vom fi înlocuiți de roboți? 3 scenarii posibile. Vocea Nației #271",
+          "timestamp": "22:16",
+          "mention_date": "2025-06-22T06:40:22.311000"
+        },
+        {
           "video_id": "-chC9q8fq-k",
           "video_title": "Slujbe de mare rahat. Tirania lui „pot”. Capitalismul bunăstării. Vocea Nației #260",
           "timestamp": "04:05",
-          "mention_date": "2025-02-01T00:00:00"
+          "mention_date": "2025-02-13T17:12:09.962000"
+        },
+        {
+          "video_id": "w0AamjgG1QE",
+          "video_title": "Revenirea la capitalismul de bază. O nostalgie periculoasă. Vocea Nației #273",
+          "timestamp": "16:48",
+          "mention_date": "2025-05-03T00:00:00"
         }
       ]
     },
@@ -3930,7 +4434,7 @@
           "video_id": "_x2csa76ul0",
           "video_title": "Ce șantaj odios! Prostălăul Europei. Cum se bâlbâie aliații. Un test ratat | Starea Nației 23.05.24",
           "timestamp": "13:00",
-          "mention_date": "2024-05-23T00:00:00"
+          "mention_date": "2025-03-03T20:15:26.878000"
         },
         {
           "video_id": "o9ZDjnAiiL8",
@@ -3955,6 +4459,18 @@
           "video_title": "Starea Nației LIVE 22 ianuarie 2024",
           "timestamp": "34:46",
           "mention_date": "2025-03-04T04:19:17.410000"
+        },
+        {
+          "video_id": "FUKZzWA9QrA",
+          "video_title": "Simion este sistemul. Pastile pentru Georgescu! Oportunism, nu suveranism | Starea Impostorilor #101",
+          "timestamp": "02:04",
+          "mention_date": "2025-05-16T00:00:00"
+        },
+        {
+          "video_id": "T8tj6OYq0gI",
+          "video_title": "George Simion de la Alianța pentru Unirea Rataților. Cameleonul sistemului | Starea Impostorilor #98",
+          "timestamp": "27:39",
+          "mention_date": "2025-06-22T06:40:01.617000"
         }
       ]
     },
@@ -3968,7 +4484,7 @@
           "video_id": "Y7wMa-yd4Zs",
           "video_title": "Pătraru&amp;Valeriu LIVE: Nordis, Ciolacu, Alexandreasca + securiștii “controlează” SIE + alte subiecte",
           "timestamp": "65:07",
-          "mention_date": "2025-02-05T00:00:00"
+          "mention_date": "2025-02-13T17:11:46.856000"
         },
         {
           "video_id": "4Bg0PnXYAQE",
@@ -4007,6 +4523,36 @@
           "mention_date": "2025-03-03T20:20:41.903000"
         },
         {
+          "video_id": "rvbIVJieVwA",
+          "video_title": "Cotă unică sau progresiv? De ce săracii țin cu bogații. Să facem ca rușii | Starea Nației 12.06.25",
+          "timestamp": "43:29",
+          "mention_date": "2025-06-22T06:31:45.552000"
+        },
+        {
+          "video_id": "8M1dyG5nvyg",
+          "video_title": "Se închid granițele? Concedieri aberante. Nepotul Ciolacului, expert PNRR | Starea Nației 05.06.25",
+          "timestamp": "47:50",
+          "mention_date": "2025-06-22T06:32:46.315000"
+        },
+        {
+          "video_id": "qXoAh7FUb0Y",
+          "video_title": "Cum să votezi în 2025 cu unul care vrea să anuleze democrația? | Starea Nației LIVE 14 mai 2025",
+          "timestamp": "67:31",
+          "mention_date": "2025-06-22T06:37:18.687000"
+        },
+        {
+          "video_id": "TrrG2tvBaRA",
+          "video_title": "Adolescență. Ce fac copiii pe internet? Vocea Nației #270",
+          "timestamp": "01:45",
+          "mention_date": "2025-06-22T06:41:25.523000"
+        },
+        {
+          "video_id": "Uz-P1sCzKgc",
+          "video_title": "Axa autocraților. Cât de mult seamănă România cu o cleptocrație autocratică? Vocea Nației #294",
+          "timestamp": "22:14",
+          "mention_date": "2025-10-11T00:00:00"
+        },
+        {
           "video_id": "I0-BvCOkLok",
           "video_title": "Exclusiv! Cel mai tare sondaj de opinie! SN LIVE 28.10.2024",
           "timestamp": "16:59",
@@ -4017,6 +4563,12 @@
           "video_title": "Tehnologia și alegerile pe care le facem | Vocea Nației 216",
           "timestamp": "00:58",
           "mention_date": "2025-03-04T04:18:59.101000"
+        },
+        {
+          "video_id": "kvGPbD80jNY",
+          "video_title": "Manipularea haznalelor de știri: soroșiștii strigă “soroșiștii”! Felix, marș! Starea Impostorilor 92",
+          "timestamp": "01:32",
+          "mention_date": "2025-10-19T08:37:48.485000"
         }
       ]
     },
@@ -4173,10 +4725,16 @@
           "mention_date": "2025-03-03T20:05:21.406000"
         },
         {
+          "video_id": "9bmv19WWUKc",
+          "video_title": "De ce aceste întâlniri de sâmbătă dimineață sunt speciale? Paul Olteanu la Teatrul Nației cu Pătraru",
+          "timestamp": "19:57",
+          "mention_date": "2025-10-10T00:00:00"
+        },
+        {
           "video_id": "cQsr94Jo1BI",
           "video_title": "LIVE: Interviu Dragoș Stanca, antreprenor, expert media și investitor în startup-uri tech",
           "timestamp": "51:54",
-          "mention_date": "2024-12-20T00:00:00"
+          "mention_date": "2025-02-13T17:25:58.525000"
         },
         {
           "video_id": "Jx9l1uiopSM",
@@ -4227,6 +4785,20 @@
           "video_title": "Tinerii din ziua de azi I Starea Nației LIVE 12 februarie 2024",
           "timestamp": "54:33",
           "mention_date": "2024-02-12T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "The Coddling of the American Mind",
+      "author": "Greg Lukianoff and Jonathan Haidt",
+      "is_recommendation": true,
+      "info_link": "https://en.wikipedia.org/wiki/The_Coddling_of_the_American_Mind",
+      "mentions": [
+        {
+          "video_id": "eoyKMBbgP-o",
+          "video_title": "Cele trei Mari Neadevăruri. Cocoloșirea minților noastre. Vocea Nației #279",
+          "timestamp": "04:25",
+          "mention_date": "2025-06-14T00:00:00"
         }
       ]
     },
@@ -4439,6 +5011,26 @@
       ]
     },
     {
+      "title": "Tirania meritului",
+      "author": "Michael Sandel",
+      "is_recommendation": true,
+      "info_link": "https://us.macmillan.com/books/9780374289980/thetyrannyofmerit/",
+      "mentions": [
+        {
+          "video_id": "w0AamjgG1QE",
+          "video_title": "Revenirea la capitalismul de bază. O nostalgie periculoasă. Vocea Nației #273",
+          "timestamp": "09:44",
+          "mention_date": "2025-06-22T06:38:56.044000"
+        },
+        {
+          "video_id": "niypZ_NqPaM",
+          "video_title": "Cazul cu copiii din spitalul Iași. Alegeri Moldova. Despre cumulul pensie+salariu | SN LIVE 29.09.25",
+          "timestamp": "74:10",
+          "mention_date": "2025-09-29T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Trump pentru noi este Putin doi",
       "author": "Sergiu Toader",
       "is_recommendation": true,
@@ -4555,6 +5147,26 @@
       ]
     },
     {
+      "title": "Zelotul",
+      "author": "Reza Aslan",
+      "is_recommendation": true,
+      "info_link": "https://www.emag.ro/zelotul-reza-aslan-9789737078834/pd/D6W5JBBBM/",
+      "mentions": [
+        {
+          "video_id": "SmIm1zylXwA",
+          "video_title": "Interviu cu Gelu Duminică | Starea Nației LIVE 4 iunie 2025",
+          "timestamp": "100:0",
+          "mention_date": "2025-06-04T00:00:00"
+        },
+        {
+          "video_id": "8I0Lsx8cOKs",
+          "video_title": "Piedone, fără drept de control. Lista cu abuzuri. Telefon cu final neașteptat. Starea Nației 3.04.25",
+          "timestamp": "05:07",
+          "mention_date": "2025-10-19T08:34:34.680000"
+        }
+      ]
+    },
+    {
       "title": "Zorii tuturor lucrurilor. O nouă istorie a omenirii",
       "author": "David Graeber, David Wengrow",
       "is_recommendation": true,
@@ -4565,6 +5177,20 @@
           "video_title": "Istoria viitorului. Sărăcirea maselor și supraproducția de elite. Vocea Nației #232",
           "timestamp": "03:12",
           "mention_date": "2024-05-25T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "ghidul de supraviețuire civică",
+      "author": "CRE, Centrul de Resurse pentru Participare Publică și Apador CH",
+      "is_recommendation": true,
+      "info_link": "https://cere.ong/2021/02/02/tamtam-lanseaza-ghidul-de-supravietuire-civica/",
+      "mentions": [
+        {
+          "video_id": "nn8baaMKPB8",
+          "video_title": "Cum ne organizăm în cartier să punem presiune pe stat. Advocacy da, lobby nu! Starea Nației 28.05.25",
+          "timestamp": "09:41",
+          "mention_date": "2025-05-28T00:00:00"
         }
       ]
     },
@@ -4645,6 +5271,12 @@
           "video_title": "Costică Brădățan, filozof, profesor de studii umaniste în SUA. Împrietenește-te cu moartea și eșecul",
           "timestamp": "44:02",
           "mention_date": "2025-03-03T20:18:46.591000"
+        },
+        {
+          "video_id": "Y9rt2FYuL5E",
+          "video_title": "Cornel Ban, profesor & cercetător: Cum ne afectează climatul economic și politic din SUA",
+          "timestamp": "18:00",
+          "mention_date": "2025-10-19T08:34:52.190000"
         },
         {
           "video_id": "OQXyup9YA0I",
@@ -4731,6 +5363,12 @@
           "mention_date": "2025-02-17T18:44:10.873000"
         },
         {
+          "video_id": "8WFOOznEoOw",
+          "video_title": "Starea Nației LIVE 28 aprilie 2025",
+          "timestamp": "19:22",
+          "mention_date": "2025-06-22T06:39:30.753000"
+        },
+        {
           "video_id": "Fdcj1Iq6i10",
           "video_title": "Bun venit în viitor: escaladări militare, represiune și dezinformare. Vocea Nației #247",
           "timestamp": "09:45",
@@ -4785,6 +5423,24 @@
           "mention_date": "2025-03-04T04:20:15.339000"
         },
         {
+          "video_id": "66zr3ayqt4g",
+          "video_title": "Despre menstruație și sânge albastru | Ceva Cu Reclame 01.06.2025",
+          "timestamp": "61:47",
+          "mention_date": "2025-06-22T06:33:42.980000"
+        },
+        {
+          "video_id": "mLwS08lWyx8",
+          "video_title": "Ființă non-umană, corporația Starea Nației prezintă online știrile zilei! Starea Nației LIVE 31.3.25",
+          "timestamp": "18:33",
+          "mention_date": "2025-10-19T08:35:14.625000"
+        },
+        {
+          "video_id": "uUHI4XsRgJU",
+          "video_title": "“Dacă nu ești cuminte, vine țiganul și te fură!” Mituri, prejudecăți și adevăruri despre romi",
+          "timestamp": "06:30",
+          "mention_date": "2025-10-17T00:00:00"
+        },
+        {
           "video_id": "v40ka8_cvgA",
           "video_title": "Ați citit cartea lui Ciucă? #cartealuiCiuca #Ciuca #Inslujbatarii #PNL #alcoolism #shorts",
           "timestamp": "00:08",
@@ -4821,6 +5477,18 @@
           "mention_date": "2025-03-04T04:19:29.158000"
         },
         {
+          "video_id": "GZcBcmYr8Do",
+          "video_title": "Mai este Elena Lasconi om politic? În pragul smintirii. Discursul georgist | Starea Impostorilor #97",
+          "timestamp": "27:25",
+          "mention_date": "2025-06-22T06:40:12.014000"
+        },
+        {
+          "video_id": "vbJEqpHhdf4",
+          "video_title": "Cum se instalează tirania? 20 de lecții din trecut. Vocea Nației #267",
+          "timestamp": "17:12",
+          "mention_date": "2025-10-19T08:36:49.195000"
+        },
+        {
           "video_id": "mGo24XqimqQ",
           "video_title": "Ciucă, eroul de la bucătărie. Polițistul mandolină. Ciolacul picat din cer | Starea Nației 10.09.24",
           "timestamp": "29:43",
@@ -4854,7 +5522,7 @@
           "video_id": "iRplxJ9XeiI",
           "video_title": "Niciodată Georgescu. Bun-venit, Lege! Adio, frații Tate! Adio, Toni Greblă! Starea Nației 27.02.2025",
           "timestamp": "33:43",
-          "mention_date": "2025-02-27T00:00:00"
+          "mention_date": "2025-03-02T08:33:13.684000"
         },
         {
           "video_id": "mGo24XqimqQ",
@@ -5022,7 +5690,19 @@
           "video_id": "QPMsTbfnhMw",
           "video_title": "14 criterii să recunoaștem un fascist. Câte bifează Călin Georgescu? | Starea Nației 20.02.2025",
           "timestamp": "42:51",
-          "mention_date": "2025-02-20T00:00:00"
+          "mention_date": "2025-02-26T15:40:20.744000"
+        },
+        {
+          "video_id": "i-T2pLZYQ9o",
+          "video_title": "De unde vine “generația de suflet”. Dumnezeu e progresist? Trump și Makaveli. Starea Nației 25.03.25",
+          "timestamp": "24:04",
+          "mention_date": "2025-03-25T00:00:00"
+        },
+        {
+          "video_id": "eZuDdDNuSRQ",
+          "video_title": "Ce înțeleg unii prin democrație & dictatură. Sclavii legii. Botniță & Vaccin. Starea Nației 13.03.25",
+          "timestamp": "04:35",
+          "mention_date": "2025-10-19T08:38:02.406000"
         }
       ]
     },
@@ -5079,6 +5759,20 @@
           "video_title": "Ciucă, eroul de la bucătărie. Polițistul mandolină. Ciolacul picat din cer | Starea Nației 10.09.24",
           "timestamp": "22:05",
           "mention_date": "2024-09-10T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Apeirogon",
+      "author": "Colum McCann",
+      "is_recommendation": false,
+      "info_link": "https://en.wikipedia.org/wiki/Apeirogon_(novel)",
+      "mentions": [
+        {
+          "video_id": "uUHI4XsRgJU",
+          "video_title": "“Dacă nu ești cuminte, vine țiganul și te fură!” Mituri, prejudecăți și adevăruri despre romi",
+          "timestamp": "13:10",
+          "mention_date": "2025-10-17T00:00:00"
         }
       ]
     },
@@ -5159,16 +5853,36 @@
       ]
     },
     {
-      "title": "Bani: O poveste a omenirii",
-      "author": "David McWilliams",
+      "title": "Axa Autocrațiilor",
+      "author": "Anne Applebaum",
       "is_recommendation": false,
-      "info_link": "https://www.goodreads.com/book/show/222248280-bani",
+      "info_link": "https://cartile.ro/p/axa-autocratilor-anne-applebaum-2/",
       "mentions": [
         {
-          "video_id": "LtDq8H6v5sw",
-          "video_title": "O idee: limitarea bogăției. Capitalul, noul Dumnezeu. NORDIS &amp; politicienii. Sărăkia Nației 06.02.25",
-          "timestamp": "19:49",
-          "mention_date": "2025-02-06T00:00:00"
+          "video_id": "Uz-P1sCzKgc",
+          "video_title": "Axa autocraților. Cât de mult seamănă România cu o cleptocrație autocratică? Vocea Nației #294",
+          "timestamp": "00:30",
+          "mention_date": "2025-10-11T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Baltagul",
+      "author": "Mihail Sadoveanu",
+      "is_recommendation": false,
+      "info_link": "https://en.wikipedia.org/wiki/The_Hatchet",
+      "mentions": [
+        {
+          "video_id": "SmIm1zylXwA",
+          "video_title": "Interviu cu Gelu Duminică | Starea Nației LIVE 4 iunie 2025",
+          "timestamp": "62:02",
+          "mention_date": "2025-06-22T06:32:56.643000"
+        },
+        {
+          "video_id": "uUHI4XsRgJU",
+          "video_title": "“Dacă nu ești cuminte, vine țiganul și te fură!” Mituri, prejudecăți și adevăruri despre romi",
+          "timestamp": "22:57",
+          "mention_date": "2025-10-17T00:00:00"
         }
       ]
     },
@@ -5196,7 +5910,7 @@
           "video_id": "G00ggYHIwjY",
           "video_title": "Louis Vuitton face bicepsu’ beton. Kitul de icoane hobby. Facem angajări la NASA! Ceva Cu Reclame 70",
           "timestamp": "08:01",
-          "mention_date": "2024-10-13T00:00:00"
+          "mention_date": "2025-02-16T17:32:29.516000"
         },
         {
           "video_id": "h71L806U6Sk",
@@ -5221,6 +5935,18 @@
           "video_title": "Arestările din spital. Filmul cu prădătorii de la Cluj. Pieleanu, Miroiu! | Starea Nației 08.08.2024",
           "timestamp": "53:31",
           "mention_date": "2025-02-17T18:29:43.522000"
+        },
+        {
+          "video_id": "RnacDq-WS8k",
+          "video_title": "Vrem dezbateri, nu concursuri cu proști! Românii, munca, ajutoarele sociale | Starea Nației 01.05.25",
+          "timestamp": "03:20",
+          "mention_date": "2025-05-01T00:00:00"
+        },
+        {
+          "video_id": "CmM1x_pr0Bo",
+          "video_title": "Singura dezbatere care contează: Pătraru vs Valeriu! Pe cine alegi? | Starea Nației LIVE 30.04.2025",
+          "timestamp": "47:32",
+          "mention_date": "2025-06-22T06:39:15.384000"
         }
       ]
     },
@@ -5359,6 +6085,20 @@
       ]
     },
     {
+      "title": "Cele trei mari neadevăruri",
+      "author": "Greg Lukianoff, Jonathan Haidt",
+      "is_recommendation": false,
+      "info_link": "https://atelier.liternet.ro/articol/34200/Greg-Lukianoff-Jonathan-Haidt-Ioana-Patrascanu/Mofturile-ratiunii-americane.html",
+      "mentions": [
+        {
+          "video_id": "eoyKMBbgP-o",
+          "video_title": "Cele trei Mari Neadevăruri. Cocoloșirea minților noastre. Vocea Nației #279",
+          "timestamp": "06:36",
+          "mention_date": "2025-06-14T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Change Your Brain Every Day",
       "author": "Daniel Amen",
       "is_recommendation": false,
@@ -5422,13 +6162,25 @@
           "video_id": "2MCOTImUoPI",
           "video_title": "Voi ce fumați? Încetați cu electronicele! Bubuiala NORDIS. Provocarea Starea Nației LIVE 03.02.25",
           "timestamp": "52:54",
-          "mention_date": "2025-02-03T00:00:00"
+          "mention_date": "2025-02-13T17:11:56.872000"
         },
         {
           "video_id": "2MCOTImUoPI",
           "video_title": "Voi ce fumați? Încetați cu electronicele! Bubuiala NORDIS. Provocarea Starea Nației LIVE 03.02.25",
           "timestamp": "53:45",
           "mention_date": "2025-02-13T17:11:56.872000"
+        },
+        {
+          "video_id": "3zczusLAjOM",
+          "video_title": "Taxa de solidaritate? Da, de acord: s-o plătească cine a făcut gaura! | Starea Nației LIVE 9.6.2025",
+          "timestamp": "51:45",
+          "mention_date": "2025-06-09T00:00:00"
+        },
+        {
+          "video_id": "Ij-F7PCEj9I",
+          "video_title": "Agresivi, supărați, dar cu pașapoartele ce-ați făcut? | Starea Nației LIVE 20 mai 2025",
+          "timestamp": "93:18",
+          "mention_date": "2025-06-22T06:35:30.472000"
         }
       ]
     },
@@ -5443,6 +6195,34 @@
           "video_title": "Dacă suntem așa de deștepți, de ce suntem atât de autodistructivi? Vocea Nației#250",
           "timestamp": "28:34",
           "mention_date": "2024-10-12T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Contractul social",
+      "author": "Jean-Jacques Rousseau",
+      "is_recommendation": false,
+      "info_link": "https://en.wikipedia.org/wiki/The_Social_Contract",
+      "mentions": [
+        {
+          "video_id": "sX98JIDp0xo",
+          "video_title": "Războiul pentru mințile oamenilor se dă cu arme noi. Vocea Nației #277",
+          "timestamp": "24:00",
+          "mention_date": "2025-05-31T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Cozy Moments",
+      "author": "Mimi Moty",
+      "is_recommendation": false,
+      "info_link": "https://www.amazon.com/Cozy-Moments-Coloring-Featuring-Characters/dp/B0DSPGL5S3",
+      "mentions": [
+        {
+          "video_id": "h72iKbELAk4",
+          "video_title": "România în prelungiri: între fotbal, taxe și promisiuni de 300 de parlamentari | Starea Nației live",
+          "timestamp": "03:42",
+          "mention_date": "2025-10-13T00:00:00"
         }
       ]
     },
@@ -5470,7 +6250,19 @@
           "video_id": "v5msY9zpHBA",
           "video_title": "Telefoanele interzise în școli. Vocea Nației #246",
           "timestamp": "18:40",
-          "mention_date": "2024-09-14T00:00:00"
+          "mention_date": "2025-02-16T19:01:06.002000"
+        },
+        {
+          "video_id": "TrrG2tvBaRA",
+          "video_title": "Adolescență. Ce fac copiii pe internet? Vocea Nației #270",
+          "timestamp": "12:44",
+          "mention_date": "2025-04-12T00:00:00"
+        },
+        {
+          "video_id": "TrrG2tvBaRA",
+          "video_title": "Adolescență. Ce fac copiii pe internet? Vocea Nației #270",
+          "timestamp": "19:11",
+          "mention_date": "2025-06-22T06:41:25.523000"
         }
       ]
     },
@@ -5485,6 +6277,20 @@
           "video_title": "Costică Brădățan, filozof, profesor de studii umaniste în SUA. Împrietenește-te cu moartea și eșecul",
           "timestamp": "59:44",
           "mention_date": "2025-03-03T20:18:46.591000"
+        }
+      ]
+    },
+    {
+      "title": "Criza financiară în România",
+      "author": "Adina Sfetcu",
+      "is_recommendation": false,
+      "info_link": "https://www.goodreads.com/book/show/21644480-criza-financiar-n-rom-nia",
+      "mentions": [
+        {
+          "video_id": "JxGXOPEYw9I",
+          "video_title": "Netanyahu, Trump, Nicușor, Băsescu, Piketty, Năsui, Glăvan + alte tulburări | Starea Nației 17.06.25",
+          "timestamp": "26:27",
+          "mention_date": "2025-06-17T00:00:00"
         }
       ]
     },
@@ -5601,6 +6407,20 @@
       ]
     },
     {
+      "title": "Desculț",
+      "author": "Zaharia Stancu",
+      "is_recommendation": false,
+      "info_link": "https://ro.wikipedia.org/wiki/Desculț",
+      "mentions": [
+        {
+          "video_id": "rvbIVJieVwA",
+          "video_title": "Cotă unică sau progresiv? De ce săracii țin cu bogații. Să facem ca rușii | Starea Nației 12.06.25",
+          "timestamp": "28:22",
+          "mention_date": "2025-06-12T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Despre efemeritatea vieții",
       "author": "Seneca",
       "is_recommendation": false,
@@ -5611,6 +6431,26 @@
           "video_title": "Sensul vieții sau un sens în viață? Despre autonomie, competență și conectivitate. Vocea Nației #225",
           "timestamp": "16:57",
           "mention_date": "2024-03-30T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Despre tiranie. 20 de lecții ale secolului XX",
+      "author": "Timothy Snyder",
+      "is_recommendation": false,
+      "info_link": "https://www.edituratrei.ro/carte/despre-tiranie-douazeci-de-lectii-ale-secolului-xx/10821/?tspid=10821&gad_source=1",
+      "mentions": [
+        {
+          "video_id": "vbJEqpHhdf4",
+          "video_title": "Cum se instalează tirania? 20 de lecții din trecut. Vocea Nației #267",
+          "timestamp": "00:15",
+          "mention_date": "2025-03-22T00:00:00"
+        },
+        {
+          "video_id": "vbJEqpHhdf4",
+          "video_title": "Cum se instalează tirania? 20 de lecții din trecut. Vocea Nației #267",
+          "timestamp": "11:40",
+          "mention_date": "2025-10-19T08:36:49.195000"
         }
       ]
     },
@@ -6102,7 +6942,13 @@
           "video_id": "MWAKs_7iusc",
           "video_title": "Patru mituri despre atenție. Vocea Nației #242",
           "timestamp": "16:15",
-          "mention_date": "2024-08-17T00:00:00"
+          "mention_date": "2025-03-03T20:01:13.841000"
+        },
+        {
+          "video_id": "JhWOedChgik",
+          "video_title": "Cea mai tristă primă zi de școală. De unde mai găsim speranță? | Vocea Nației #290",
+          "timestamp": "08:11",
+          "mention_date": "2025-09-13T00:00:00"
         }
       ]
     },
@@ -6158,13 +7004,33 @@
           "video_id": "la-jjnyV8W0",
           "video_title": "Cât de fascist este discursul lui #CalinGeorgescu #fascism #fascist #umbertoeco #cultultraditiei",
           "timestamp": "00:42",
-          "mention_date": "2025-02-21T00:00:00"
+          "mention_date": "2025-02-26T15:38:31.861000"
         },
         {
           "video_id": "QPMsTbfnhMw",
           "video_title": "14 criterii să recunoaștem un fascist. Câte bifează Călin Georgescu? | Starea Nației 20.02.2025",
           "timestamp": "05:11",
           "mention_date": "2025-02-26T15:40:20.744000"
+        },
+        {
+          "video_id": "mBBqNUhb2mA",
+          "video_title": "Șase dezbateri frumoase, remontada Barcelonei & alte remontade așteptate. Starea Nației LIVE 12.5.25",
+          "timestamp": "05:42",
+          "mention_date": "2025-05-12T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Iluzia anticomunismului: lecturi critice ale Raportului Tismăneanu",
+      "author": "Vasile Ernu (editor) et al.",
+      "is_recommendation": false,
+      "info_link": "https://books.google.com/books/about/Iluzia_anticomunismului.html?id=7L9ySgAACAAJ",
+      "mentions": [
+        {
+          "video_id": "Jr0YzL9zbvo",
+          "video_title": "Interviu cu Costi Rogozanu | Starea Nației LIVE 10.09.2025",
+          "timestamp": "03:34",
+          "mention_date": "2025-09-12T00:00:00"
         }
       ]
     },
@@ -6204,15 +7070,21 @@
     },
     {
       "title": "Integrala Lebesgue-Radon în raport cu o măsură complexă",
-      "author": "Sorin Grindeanu",
+      "author": "Sorin Grindeanu și Nicolae Grindeanu",
       "is_recommendation": false,
-      "info_link": "https://www.digifm.ro/stiri/intern/grindeanu-madame-armand-attention-aici-e-cartea-123927",
+      "info_link": "https://www.gandul.ro/politica/dovada-lui-grindeanu-dupa-ce-a-fost-acuzat-ca-a-scris-o-carte-care-de-fapt-nu-exista-16222078",
       "mentions": [
+        {
+          "video_id": "kvGPbD80jNY",
+          "video_title": "Manipularea haznalelor de știri: soroșiștii strigă “soroșiștii”! Felix, marș! Starea Impostorilor 92",
+          "timestamp": "01:32",
+          "mention_date": "2025-03-14T00:00:00"
+        },
         {
           "video_id": "OQXyup9YA0I",
           "video_title": "Doar inundația e mai mare ca inflația. Batman &amp; Marcel. Alo, aterizează Deca! Starea Nației 24.09.24",
           "timestamp": "34:58",
-          "mention_date": "2024-09-24T00:00:00"
+          "mention_date": "2025-02-16T17:53:16.460000"
         }
       ]
     },
@@ -6255,6 +7127,20 @@
           "video_title": "Costică Brădățan, filozof, profesor de studii umaniste în SUA. Împrietenește-te cu moartea și eșecul",
           "timestamp": "14:36",
           "mention_date": "2024-04-29T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Istoria literaturii române de la origini până în prezent",
+      "author": "George Călinescu",
+      "is_recommendation": false,
+      "info_link": "https://ro.wikipedia.org/wiki/Istoria_literaturii_române_de_la_origini_până_în_prezent",
+      "mentions": [
+        {
+          "video_id": "SmIm1zylXwA",
+          "video_title": "Interviu cu Gelu Duminică | Starea Nației LIVE 4 iunie 2025",
+          "timestamp": "64:25",
+          "mention_date": "2025-06-04T00:00:00"
         }
       ]
     },
@@ -6310,33 +7196,19 @@
           "video_id": "MhA0lQksRCQ",
           "video_title": "Lecții și erecții. Firea, candidata groazei. Romanul Luceafărul. Aviohannis | Starea Nației 23.04.24",
           "timestamp": "17:24",
-          "mention_date": "2024-04-23T00:00:00"
+          "mention_date": "2025-03-03T20:19:17.410000"
         },
         {
           "video_id": "MhA0lQksRCQ",
           "video_title": "Lecții și erecții. Firea, candidata groazei. Romanul Luceafărul. Aviohannis | Starea Nației 23.04.24",
           "timestamp": "19:31",
           "mention_date": "2025-03-03T20:19:17.410000"
-        }
-      ]
-    },
-    {
-      "title": "Lupta mea",
-      "author": "Karl Ove Knausgård",
-      "is_recommendation": false,
-      "info_link": "https://www.libris.ro/lupta-mea-cartea-a-patra-dansand-in-intuneric-LIT978-606-33-1625-8--p1166011.html",
-      "mentions": [
-        {
-          "video_id": "sJaIqdgB9Sg",
-          "video_title": "Efectul Matei și aberațiile care distrug educația. Prof. Lomaca - Soluții pentru copiii din România",
-          "timestamp": "50:57",
-          "mention_date": "2025-01-07T00:00:00"
         },
         {
-          "video_id": "JlVKrCOqrdE",
-          "video_title": "Alo, tineretu', vouă vi s-a urât cu binele? SN LIVE 8 aprilie 2024",
-          "timestamp": "43:05",
-          "mention_date": "2025-03-03T20:21:25.783000"
+          "video_id": "itEdON-kEYc",
+          "video_title": "Lasconi, fan Antonescu. Gavrilă, POT și lăutarii. Campanie cu bani din pungă. Starea Nației 29.04.25",
+          "timestamp": "38:53",
+          "mention_date": "2025-04-29T00:00:00"
         }
       ]
     },
@@ -6355,6 +7227,20 @@
       ]
     },
     {
+      "title": "Manipularea algoritmilor și instrumentalizarea influencerilor – Concluzii desprinse din alegerile prezidențiale din România & riscuri pentru Franța",
+      "author": "None",
+      "is_recommendation": false,
+      "info_link": "https://www.defenseromania.ro/raportul-institutiilor-franceze-alegerile-din-romania-tinta-unei-campanii-sofisticate-axata-pe-manipularea-algoritmului-tiktok_632300.html",
+      "mentions": [
+        {
+          "video_id": "u1flHRQOgvs",
+          "video_title": "Interviu Mircea Toma | SN LIVE 16.04.2025",
+          "timestamp": "32:08",
+          "mention_date": "2025-06-22T06:40:46.541000"
+        }
+      ]
+    },
+    {
       "title": "Marea Renaștere-Ieșirea din Matrix",
       "author": "Călin Georgescu",
       "is_recommendation": false,
@@ -6365,6 +7251,26 @@
           "video_title": "Sfântul Divin Georgescu Nino-Nino. Urări de la fani. Adam și Eva erau români? Starea Impostorilor 86",
           "timestamp": "20:59",
           "mention_date": "2025-01-31T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Marea Schimbare",
+      "author": "Gayle Lynds",
+      "is_recommendation": false,
+      "info_link": "https://www.literaturapetocuri.ro/marea-schimbare-de-gayle-lynds-si-robert-ludlum.html",
+      "mentions": [
+        {
+          "video_id": "IrkIYP0PfZc",
+          "video_title": "Să nu fugem de dezbatere! Cu Dragoș Pătraru și Valeriu Nicolae | Starea Nației LIVE 15 mai 2025",
+          "timestamp": "49:06",
+          "mention_date": "2025-05-15T00:00:00"
+        },
+        {
+          "video_id": "IrkIYP0PfZc",
+          "video_title": "Să nu fugem de dezbatere! Cu Dragoș Pătraru și Valeriu Nicolae | Starea Nației LIVE 15 mai 2025",
+          "timestamp": "50:22",
+          "mention_date": "2025-06-22T06:36:45.090000"
         }
       ]
     },
@@ -6557,6 +7463,20 @@
       ]
     },
     {
+      "title": "Noul Testament",
+      "author": "None",
+      "is_recommendation": false,
+      "info_link": "https://en.wikipedia.org/wiki/New_Testament",
+      "mentions": [
+        {
+          "video_id": "SmIm1zylXwA",
+          "video_title": "Interviu cu Gelu Duminică | Starea Nației LIVE 4 iunie 2025",
+          "timestamp": "100:0",
+          "mention_date": "2025-06-22T06:32:56.643000"
+        }
+      ]
+    },
+    {
       "title": "Nu Face Nimic!",
       "author": "Celeste Headlee",
       "is_recommendation": false,
@@ -6566,7 +7486,13 @@
           "video_id": "llylZYvgDag",
           "video_title": "Tehnologia și alegerile pe care le facem | Vocea Nației 216",
           "timestamp": "21:57",
-          "mention_date": "2024-01-27T00:00:00"
+          "mention_date": "2025-03-04T04:18:59.101000"
+        },
+        {
+          "video_id": "w0AamjgG1QE",
+          "video_title": "Revenirea la capitalismul de bază. O nostalgie periculoasă. Vocea Nației #273",
+          "timestamp": "16:48",
+          "mention_date": "2025-05-03T00:00:00"
         }
       ]
     },
@@ -6683,6 +7609,20 @@
       ]
     },
     {
+      "title": "Only Killers and Thieves",
+      "author": "Paul Howarth",
+      "is_recommendation": false,
+      "info_link": "https://www.goodreads.com/book/show/35181570-only-killers-and-thieves",
+      "mentions": [
+        {
+          "video_id": "JuIjPP0RMsA",
+          "video_title": "Parada persoanelor homo economicus. Lingouri de aur monoatomic. EVARS & EMGC. Starea Nației 29.05.25",
+          "timestamp": "06:06",
+          "mention_date": "2025-05-29T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Open Book",
       "author": "Jessica Simpson",
       "is_recommendation": false,
@@ -6720,7 +7660,13 @@
           "video_id": "iRplxJ9XeiI",
           "video_title": "Niciodată Georgescu. Bun-venit, Lege! Adio, frații Tate! Adio, Toni Greblă! Starea Nației 27.02.2025",
           "timestamp": "21:36",
-          "mention_date": "2025-02-27T00:00:00"
+          "mention_date": "2025-03-02T08:33:13.684000"
+        },
+        {
+          "video_id": "yiTwITgpjgc",
+          "video_title": "Democrație vs. oligarhie. Soluția la anxietate politică. Vocea Nației #265",
+          "timestamp": "17:55",
+          "mention_date": "2025-03-08T00:00:00"
         }
       ]
     },
@@ -6787,6 +7733,20 @@
       ]
     },
     {
+      "title": "Platform Capitalism",
+      "author": "Nick Srnicek",
+      "is_recommendation": false,
+      "info_link": "https://books.google.com/books/about/Platform_Capitalism.html?id=3yrJDQAAQBAJ",
+      "mentions": [
+        {
+          "video_id": "ItLldbrZcpU",
+          "video_title": "Ștefan Baghiu. Scriitor, cercetător literar, lector universitar. Scrisoare pentru salvarea Educației",
+          "timestamp": "05:55",
+          "mention_date": "2025-09-03T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Playing to Win",
       "author": "Hilary Levey Friedman",
       "is_recommendation": false,
@@ -6810,7 +7770,27 @@
           "video_id": "Jx9l1uiopSM",
           "video_title": "Le dăm copiilor telefoane cu internet? De la ce vârstă? Vocea Nației 218",
           "timestamp": "23:42",
-          "mention_date": "2024-02-10T00:00:00"
+          "mention_date": "2025-03-04T04:17:39.661000"
+        },
+        {
+          "video_id": "TrrG2tvBaRA",
+          "video_title": "Adolescență. Ce fac copiii pe internet? Vocea Nației #270",
+          "timestamp": "26:31",
+          "mention_date": "2025-04-12T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Portret al artistei ca tânără influencăriță",
+      "author": "Adriana Radu",
+      "is_recommendation": false,
+      "info_link": "https://eventbook.ro/other/bilete-portret-al-artistei-ca-tanara-influencerita",
+      "mentions": [
+        {
+          "video_id": "31O9Av6T_vM",
+          "video_title": "Pe surse: premierul vine cu CFR-ul, deci mai întârzie | Starea Nației LIVE 16 iunie 2025",
+          "timestamp": "72:06",
+          "mention_date": "2025-06-16T00:00:00"
         }
       ]
     },
@@ -6857,6 +7837,20 @@
       ]
     },
     {
+      "title": "Productivitate lentă",
+      "author": "Cal Newport",
+      "is_recommendation": false,
+      "info_link": "https://www.publica.ro/cal-newport-productivitate-lenta.html",
+      "mentions": [
+        {
+          "video_id": "w0AamjgG1QE",
+          "video_title": "Revenirea la capitalismul de bază. O nostalgie periculoasă. Vocea Nației #273",
+          "timestamp": "16:48",
+          "mention_date": "2025-05-03T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Profesor autentic. Repere și perspective",
       "author": "Constantin Lomaca",
       "is_recommendation": false,
@@ -6893,6 +7887,20 @@
           "video_title": "Cum te aperi de știri false și dezinformare pe internet. Vocea Nației #223",
           "timestamp": "22:12",
           "mention_date": "2025-03-04T04:10:57.276000"
+        }
+      ]
+    },
+    {
+      "title": "Psihologia poporului român",
+      "author": "Daniel David",
+      "is_recommendation": false,
+      "info_link": "https://bookzone.ro/carte/psihologia-poporului-roman",
+      "mentions": [
+        {
+          "video_id": "6H0Mhl46Sy0",
+          "video_title": "Interviu cu ministrul Educației, Daniel David + Subiectele zilei | SN LIVE 07.05.2025",
+          "timestamp": "11:22",
+          "mention_date": "2025-05-07T00:00:00"
         }
       ]
     },
@@ -6990,7 +7998,7 @@
           "video_id": "-yCtWRV_kcw",
           "video_title": "Mircea Geoană. De unde vin gafele. Omul chinezilor? Sondaje plătite, servicii, doctorat, sentiment.",
           "timestamp": "60:19",
-          "mention_date": "2024-10-31T00:00:00"
+          "mention_date": "2025-02-16T09:17:56.070000"
         },
         {
           "video_id": "4TJSM_n22vk",
@@ -7003,6 +8011,32 @@
           "video_title": "Trăim în cele mai bune vremuri? Progres tehnologic vs. progres social. Vocea Nației #230",
           "timestamp": "14:51",
           "mention_date": "2025-03-03T20:16:57.850000"
+        },
+        {
+          "video_id": "DRde-bKzMxo",
+          "video_title": "O nouă explicație pentru voturile „anti-sistem”. Vocea Nației #268",
+          "timestamp": "03:02",
+          "mention_date": "2025-10-19T08:35:20.633000"
+        },
+        {
+          "video_id": "oz6f4L7GpJ0",
+          "video_title": "De ce nu au românii încredere în alți oameni? Vocea nației #289",
+          "timestamp": "07:41",
+          "mention_date": "2025-09-06T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Relația cu informația și obiceiurile de consum media ale copiilor și tinerilor din România",
+      "author": "Centru pentru Jurnalism Independent",
+      "is_recommendation": false,
+      "info_link": "https://cji.ro/studiu-relatia-cu-informatia-si-obiceiurilede-consum-media-ale-copiilor-si-tinerilor-din-romania/",
+      "mentions": [
+        {
+          "video_id": "TrrG2tvBaRA",
+          "video_title": "Adolescență. Ce fac copiii pe internet? Vocea Nației #270",
+          "timestamp": "01:45",
+          "mention_date": "2025-04-12T00:00:00"
         }
       ]
     },
@@ -7085,6 +8119,20 @@
           "video_title": "De ce atâtea meditații? Evaluarea națională, o mizerie. Sclavi sau elevi? | Starea Nației 08.02.2024",
           "timestamp": "40:58",
           "mention_date": "2025-03-04T04:17:44.194000"
+        }
+      ]
+    },
+    {
+      "title": "Roșia Montană - Social Representations Around an Environmental Controversy in Romania",
+      "author": "Alina Pop",
+      "is_recommendation": false,
+      "info_link": "https://books.google.com/books/about/Roșia_Montană_Social_Representations_A.html?id=B_uKoAEACAAJ",
+      "mentions": [
+        {
+          "video_id": "MG4G9EkcW1E",
+          "video_title": "Dezvăluiri: Georgescu & aurul României. Extra: Șeful ANAF se dă de gol. Starea Nației & RISE Project",
+          "timestamp": "48:27",
+          "mention_date": "2025-09-18T00:00:00"
         }
       ]
     },
@@ -7203,6 +8251,48 @@
       ]
     },
     {
+      "title": "Standardele pentru Educație Sexuală în Europa",
+      "author": "Biroul Regional OMS pentru Europa și Centrul Federal German pentru Educație în Sănătate",
+      "is_recommendation": false,
+      "info_link": "https://whocc.bioeg.de/fileadmin/user_upload/Dokumente/BZgA_Standards_Romanian.pdf",
+      "mentions": [
+        {
+          "video_id": "3zczusLAjOM",
+          "video_title": "Taxa de solidaritate? Da, de acord: s-o plătească cine a făcut gaura! | Starea Nației LIVE 9.6.2025",
+          "timestamp": "45:30",
+          "mention_date": "2025-06-09T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "State of Innovation: The U.S. Government's Role in Technology Development",
+      "author": "Fred L. Block and Matthew R. Keller",
+      "is_recommendation": false,
+      "info_link": "https://www.amazon.com/State-Innovation-Fred-L-Block/dp/1594518246",
+      "mentions": [
+        {
+          "video_id": "Y9rt2FYuL5E",
+          "video_title": "Cornel Ban, profesor & cercetător: Cum ne afectează climatul economic și politic din SUA",
+          "timestamp": "22:40",
+          "mention_date": "2025-04-02T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Stop austerității în educație - 5 principii pentru reconstrucția sistemului de educație din România",
+      "author": "Diversi autori / colectiv",
+      "is_recommendation": false,
+      "info_link": "https://atelier.liternet.ro/articol/51838/Autori-diversi/Stop-austeritatii-in-educatie-5-principii-pentru-reconstructia-sistemului-de-educatie-din-Romania.html",
+      "mentions": [
+        {
+          "video_id": "ItLldbrZcpU",
+          "video_title": "Ștefan Baghiu. Scriitor, cercetător literar, lector universitar. Scrisoare pentru salvarea Educației",
+          "timestamp": "03:45",
+          "mention_date": "2025-09-03T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Stăpânul Inelelor",
       "author": "J.R.R. Tolkien",
       "is_recommendation": false,
@@ -7217,6 +8307,34 @@
       ]
     },
     {
+      "title": "Tabelul Lui Mendeleev",
+      "author": "Dmitri Mendeleev (attributed/inspired)",
+      "is_recommendation": false,
+      "info_link": "https://www.scribd.com/document/504409273/TABELUL-LUI-MENDELEEV",
+      "mentions": [
+        {
+          "video_id": "7O2gryxhu7M",
+          "video_title": "Jos cenzura, jos praful saharian! Trump la Cotroceni? Georgescu și rujeola | Starea Nației 15.04.25",
+          "timestamp": "12:15",
+          "mention_date": "2025-04-15T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Team Danmark 30 år 1984-2014",
+      "author": "Thomas Meyhoff, Team Danmark",
+      "is_recommendation": false,
+      "info_link": "https://books.google.com/books/about/Team_Danmark_30_%C3%A5r_1984_2014.html?id=j_lrtwEACAAJ",
+      "mentions": [
+        {
+          "video_id": "7dpTP96s2Oc",
+          "video_title": "Lecția Islandei pentru prevenirea consumului de droguri în rândul adolescenților. Vocea Nației #280",
+          "timestamp": "12:36",
+          "mention_date": "2025-06-21T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Teatrul națiunii",
       "author": "Anca Hatiegan",
       "is_recommendation": false,
@@ -7226,7 +8344,31 @@
           "video_id": "04RYmbfWj-0",
           "video_title": "Ikea ne ia toate pădurile I SN LIVE 15 aprilie 2024",
           "timestamp": "42:21",
-          "mention_date": "2024-04-15T00:00:00"
+          "mention_date": "2025-03-03T20:20:41.903000"
+        },
+        {
+          "video_id": "JxcOccIa-cA",
+          "video_title": "Nu va fi ușor, că suntem în pom | Starea Nației LIVE 26 mai 2025",
+          "timestamp": "25:23",
+          "mention_date": "2025-06-22T06:34:56.683000"
+        },
+        {
+          "video_id": "zGs2guoqgmE",
+          "video_title": "Ciclonul Bolojan nu se atinge de privilegii. Băsescu, Georgescu și porumbeii. Starea Nației 07.10.25",
+          "timestamp": "51:58",
+          "mention_date": "2025-10-07T00:00:00"
+        },
+        {
+          "video_id": "MvXpwHemWeU",
+          "video_title": "De ce ajung oamenii narcisiști și paranoici la putere? Vocea Nației #292",
+          "timestamp": "23:07",
+          "mention_date": "2025-10-19T08:43:28.637000"
+        },
+        {
+          "video_id": "TMTzpbERYQY",
+          "video_title": "De ce nu fac profesorii performanță cu elevii lor. #Vocea Nației 291",
+          "timestamp": "26:39",
+          "mention_date": "2025-10-19T08:44:09.766000"
         }
       ]
     },
@@ -7310,7 +8452,27 @@
           "video_id": "_WRCnm1MGMA",
           "video_title": "Să înțelegem de unde venim, ca să știm unde ne ducem. Vocea Nației #236",
           "timestamp": "19:21",
-          "mention_date": "2024-06-22T00:00:00"
+          "mention_date": "2025-03-03T20:13:42.244000"
+        },
+        {
+          "video_id": "oz6f4L7GpJ0",
+          "video_title": "De ce nu au românii încredere în alți oameni? Vocea nației #289",
+          "timestamp": "19:59",
+          "mention_date": "2025-09-06T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "The Good Enough Life",
+      "author": "Avram Alpert",
+      "is_recommendation": false,
+      "info_link": "https://press.princeton.edu/books/paperback/9780691254685/the-good-enough-life",
+      "mentions": [
+        {
+          "video_id": "JhWOedChgik",
+          "video_title": "Cea mai tristă primă zi de școală. De unde mai găsim speranță? | Vocea Nației #290",
+          "timestamp": "16:44",
+          "mention_date": "2025-09-13T00:00:00"
         }
       ]
     },
@@ -7428,7 +8590,7 @@
           "video_id": "tXv2FS6Shaw",
           "video_title": "Cum se schimbă o societate. Vocea Nației #229",
           "timestamp": "00:30",
-          "mention_date": "2024-04-27T00:00:00"
+          "mention_date": "2025-03-03T20:18:56.591000"
         },
         {
           "video_id": "tXv2FS6Shaw",
@@ -7441,6 +8603,12 @@
           "video_title": "Cum se schimbă o societate. Vocea Nației #229",
           "timestamp": "03:50",
           "mention_date": "2025-03-03T20:18:56.591000"
+        },
+        {
+          "video_id": "rvbIVJieVwA",
+          "video_title": "Cotă unică sau progresiv? De ce săracii țin cu bogații. Să facem ca rușii | Starea Nației 12.06.25",
+          "timestamp": "35:37",
+          "mention_date": "2025-06-12T00:00:00"
         }
       ]
     },
@@ -7455,6 +8623,20 @@
           "video_title": "Costică Brădățan, filozof, profesor de studii umaniste în SUA. Împrietenește-te cu moartea și eșecul",
           "timestamp": "81:51",
           "mention_date": "2024-04-29T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "The Quiet Before: On the Unexpected Origins of Radical Ideas",
+      "author": "Gal Beckerman",
+      "is_recommendation": false,
+      "info_link": "https://www.amazon.com/Quiet-Before-Unexpected-Origins-Radical/dp/152475918X",
+      "mentions": [
+        {
+          "video_id": "JhWOedChgik",
+          "video_title": "Cea mai tristă primă zi de școală. De unde mai găsim speranță? | Vocea Nației #290",
+          "timestamp": "21:53",
+          "mention_date": "2025-09-13T00:00:00"
         }
       ]
     },
@@ -7489,6 +8671,20 @@
           "video_title": "Ce votăm. De ce e important. Calea pro-europeană și pro-NATO. Starea Nației 30.11.2024",
           "timestamp": "20:16",
           "mention_date": "2024-11-30T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "The Scrabble Word-Building Book",
+      "author": "Saleem Ahmed",
+      "is_recommendation": false,
+      "info_link": "https://www.simonandschuster.com/books/The-Scrabble-Word-Building-Book/Saleem-Ahmed/9781982144722",
+      "mentions": [
+        {
+          "video_id": "wM5xfnB-q00",
+          "video_title": "Ce urmează: matematică sau limba rusă? | Starea Nației LIVE 5 mai 2025",
+          "timestamp": "81:18",
+          "mention_date": "2025-05-05T00:00:00"
         }
       ]
     },
@@ -7564,7 +8760,13 @@
           "video_id": "llylZYvgDag",
           "video_title": "Tehnologia și alegerile pe care le facem | Vocea Nației 216",
           "timestamp": "14:56",
-          "mention_date": "2024-01-27T00:00:00"
+          "mention_date": "2025-03-04T04:18:59.101000"
+        },
+        {
+          "video_id": "rvbIVJieVwA",
+          "video_title": "Cotă unică sau progresiv? De ce săracii țin cu bogații. Să facem ca rușii | Starea Nației 12.06.25",
+          "timestamp": "28:22",
+          "mention_date": "2025-06-12T00:00:00"
         }
       ]
     },
@@ -7617,6 +8819,20 @@
       ]
     },
     {
+      "title": "Un atlas al corupției",
+      "author": "Ștefan Liiceanu",
+      "is_recommendation": false,
+      "info_link": "https://humanitas.ro/humanitas/carte/un-atlas-al-coruptiei",
+      "mentions": [
+        {
+          "video_id": "HK8vQ1FiPeU",
+          "video_title": "Starea Nației LIVE 8 septembrie 2025",
+          "timestamp": "24:06",
+          "mention_date": "2025-09-08T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Un ostaş în slujba ţării",
       "author": "Nicolae Ciucă",
       "is_recommendation": false,
@@ -7641,6 +8857,20 @@
           "video_title": "Vă place ce-ați făcut la vot? I Starea Nației LIVE 10 iunie 2024",
           "timestamp": "28:01",
           "mention_date": "2024-06-10T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Viața unui zdrențoi și analizele sale",
+      "author": "Robert Lupu",
+      "is_recommendation": false,
+      "info_link": "https://www.gandul.ro/actualitate/viata-unui-zdrentoi-de-robert-lupu-wolf-jurnalul-unui-psihopat-care-anunta-tragedia-din-cosmopolis-20534028",
+      "mentions": [
+        {
+          "video_id": "LImoPP4IM-8",
+          "video_title": "Statul, complicele agresorilor. Zdrențoiu’ lăsat să umble cu arme la vedere | Starea Nației 11.06.25",
+          "timestamp": "22:18",
+          "mention_date": "2025-06-11T00:00:00"
         }
       ]
     },
@@ -7673,6 +8903,20 @@
       ]
     },
     {
+      "title": "White Skin, Black Fuel",
+      "author": "Andreas Malm (împreună cu colectivul Zetkin)",
+      "is_recommendation": false,
+      "info_link": "https://www.penguinrandomhouse.com/books/667414/white-skin-black-fuel-by-andreas-malm-and-the-zetkin-collective/",
+      "mentions": [
+        {
+          "video_id": "V-89PdlOVdY",
+          "video_title": "Starea Planetei x Zlăvog: Fascismul de ieri, de azi și de mâine, în contextul crizei climatice",
+          "timestamp": "13:57",
+          "mention_date": "2025-03-23T00:00:00"
+        }
+      ]
+    },
+    {
       "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
       "author": "Daron Acemoglu and James A. Robinson",
       "is_recommendation": false,
@@ -7683,6 +8927,20 @@
           "video_title": "Când apare autoritarismul? Când statele fac prea mult? Sau prea puțin? Vocea Nației #258",
           "timestamp": "14:09",
           "mention_date": "2024-12-21T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "Wist",
+      "author": "Steve M. Robertson",
+      "is_recommendation": false,
+      "info_link": "https://www.wistseries.com/",
+      "mentions": [
+        {
+          "video_id": "wM5xfnB-q00",
+          "video_title": "Ce urmează: matematică sau limba rusă? | Starea Nației LIVE 5 mai 2025",
+          "timestamp": "81:18",
+          "mention_date": "2025-05-05T00:00:00"
         }
       ]
     },
@@ -7785,6 +9043,6 @@
       ]
     }
   ],
-  "total_books": 370,
-  "last_updated": "2025-03-09T07:35:36.990224"
+  "total_books": 420,
+  "last_updated": "2025-10-19T12:03:02.858174"
 }

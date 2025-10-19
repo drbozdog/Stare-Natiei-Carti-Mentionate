@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patriot. Memorii - Detalii | Starea Nației</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .book-details {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px var(--shadow-color);
+            padding: 2rem;
+        }
+        
+        .book-header {
+            margin-bottom: 2rem;
+            text-align: center;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .book-title {
+            font-size: 2.5rem;
+            color: var(--text-color);
+            margin-bottom: 0.75rem;
+            line-height: 1.2;
+        }
+        
+        .book-author {
+            font-size: 1.4rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .external-link {
+            display: inline-block;
+            margin: 1.5rem 0;
+            padding: 0.8rem 1.5rem;
+            background: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            transition: background-color 0.3s ease;
+            font-size: 1.1rem;
+        }
+        
+        .external-link:hover {
+            background: #1976D2;
+        }
+        
+        .book-description {
+            margin: 2rem auto;
+            line-height: 1.8;
+            color: #444;
+            max-width: 800px;
+            font-size: 1.1rem;
+        }
+        
+        .mentions-section {
+            margin-top: 3rem;
+        }
+        
+        .mentions-section h3 {
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            color: var(--text-color);
+        }
+        
+        .mention-card {
+            margin: 1.5rem 0;
+            padding: 2rem;
+            background: var(--background-light);
+            border-radius: 8px;
+            box-shadow: 0 1px 3px var(--shadow-color);
+        }
+        
+        .mention-date {
+            color: #666;
+            font-size: 1rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        .mention-link {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        
+        .mention-text {
+            margin: 1rem 0;
+            line-height: 1.7;
+            color: #333;
+            font-size: 1.1rem;
+        }
+        
+        .back-link {
+            display: inline-block;
+            margin: 2rem 0;
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+        
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .book-title {
+                font-size: 2rem;
+            }
+            
+            .book-author {
+                font-size: 1.2rem;
+            }
+            
+            .mention-card {
+                padding: 1.5rem;
+            }
+            
+            .mention-text {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cărțile Nației</h1>
+    </header>
+
+    <main>
+        <div class="book-details">
+            <a href="#" class="back-link" onclick="history.back(); return false;">
+                <i class="fas fa-arrow-left"></i> Înapoi la lista de cărți
+            </a>
+            
+            <div class="book-header">
+                <h2 class="book-title">Patriot. Memorii</h2>
+                <p class="book-author">de Aleksei Navalnii</p>
+                <a href="https://www.libris.ro/patriot-memorii-aleksei-navalnii-LIT978-630-342-287-9--p38402413.html" class="external-link" target="_blank">Vezi detalii <i class="fas fa-external-link-alt"></i></a>
+            </div>
+
+            <div class="book-description">Aleksei Navalnii a inceput sa scrie volumul Patriot la scurt timp dupa ce a fost la un pas de moarte in 2020, in urma unei otraviri. Cartea cuprinde intreaga poveste a vietii sale: autorul isi descrie tineretea, chemarea pentru activism, casnicia si familia, angajamentul pe care si l-a luat de a infrunta o putere mondiala care voia sa-l amuteasca cu orice pret si convingerea sa nestramutata ca schimbarile se vor produce indiferent de cei care li se impotrivesc. Intr-o scriitura vie, antrenanta, care cuprinde o corespondenta din inchisoare ce n-a mai vazut lumina tiparului pana acum, Navalnii rememoreaza, printre multe alte aspecte, cariera sa politica, numeroasele incercari de asasinare a sa, vietile apropiatilor sai si campania neobosita pe care el si echipa sa au purtat-o impotriva unui regim din ce in ce mai dictatorial.</div>
+
+            <div class="mentions-section">
+                <h3>Mențiuni în emisiune</h3>
+                
+                <div class="mention-card">
+                    <div class="mention-date">13 martie 2025</div>
+                    <a href="https://youtu.be/eZuDdDNuSRQ?t=32:43" 
+                       class="mention-link" target="_blank">
+                        Ce înțeleg unii prin democrație &amp; dictatură. Sclavii legii. Botniță &amp; Vaccin. Starea Nației 13.03.25
+                    </a>
+                    <div class="mention-text">
+                        o democrație pentru că pe hârtie chiar e regulile scrise deci există însă dacă treci de hârtie Vezi că instituțiile politice din Rusia nu funcționează așa cum funcționează instituțiile politice din Statele cu adevărat democratice că câștigătorul alegerilor prezidențiale din Rusia e întotdeauna dinainte cunoscut orice alt candidat la președinție în afară de putin se bate din start pentru locul al doilea niciun candidat cu idei și critici la adresa regimului nu e difuzat vreodată de presa controlată de stat ori democrația înseamnă posibilitatea de a schimba conducători partidele politice Cum spunea pete Țuțea sunt niște gloabe la carul de aur al poporului român nu vom mai fi partide politici în această țară niciunul normal n avea cum să nu citeze din Țuțea un tip care la viața lui a citit doar citate de pe net așa operează dictaturile cum zicea Georgescu că ar vrea să facă an nihil orice opoziție și în acest demers distrugând și toate instrumentele democratice pe care care cetățenii le au la dispoziție ca să și facă auzite vocile pentru o scurtă perioadă de timp chiar și rușii susținători ai lui Putin au crezut că interesele lor vor fi mai bine reprezentate însă putin a lupta cu oligarhia abuzând de putere distrugând orice urmă de presă liberă extinzând puterile securității și eliminând orice competiție politică navalnii Scrie în cartea patriot că până în ziua în care a fost otrăvit era convins că se află în siguranță în Rusia cu cât era mai cunoscut credea el cu atât le va fi mai greu să l omoare s a înșelat așa cum știm toți oponenții lui Putin din Rusia sfârșesc prin a fi arestați
+                    </div>
+                </div>
+                
+                <div class="mention-card">
+                    <div class="mention-date">17 februarie 2025</div>
+                    <a href="https://youtu.be/G9qtVh0vuP8?t=20:45" 
+                       class="mention-link" target="_blank">
+                        Starea Nației LIVE 17 februarie 2025
+                    </a>
+                    <div class="mention-text">
+                        soluții Noi am pierdut încrederea și în instituții și în democrație am pierdut încrederea unii în alții ceea ce e foarte foarte nasol foarte foarte nasol și soluțiile de la de la cine le aștepți de la liderii politici a că mulți dintre ei sunt în buzunarul de la spate al corporațiilor al miliardarilor Da e Haideți să ne uităm un pic foarte pe scurt așa Ce propun liderii noștri politici pe linia economică Cum cât îi duce pe ei bidonul că vedeți Uite toată lumea domnu Hai să facem Citeam și pe aici așteptăm Partidul facem dregem Clar dacă este nasoală în mai tre ne organizăm nu mai avem lăsăm tot oricum n o să ne mai las să zicem nimic și aia e la Lup teme până atunci vă recomand să Citiți cartea asta a lui naval Nei că s a făcut un an de când s a prăpădit Omul și e foarte importantă cartea dacă vreți să înțelegeți Da navalnii Patriot memorii e un pic dar merge repede se citește repede E foarte ok ă deci uite Eu de aia nu mă bag că nu mă pricep tat nu mă pricep nu înseamnă că mă pricep dacă citesc dacă studiez dacă analizez dacă mă uit la ce se întâmplă pe la alții pe mine Știți ce mă sperie cel mai tare inconștiența acestor băieți care ajung să ne conducă adică îi asculți și zici mămica mea cât de proști sunt ăștia mânca ți aș gura bă cum să ești de Deci nu mai zic Cum să conduci o țară bă cum ești din casă când ești atât de prost Asta i pe mine asta mă îngrozește E o lipsă totală de înțelegere față de ceea ce se întâmplă cum naiba poți avea o viziune despre lume dacă tu habar n ai despre ce vorbești Ce prezinți acolo Ce vi se pare că acest ciolacul care salvează pisici îmbrăcat
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>

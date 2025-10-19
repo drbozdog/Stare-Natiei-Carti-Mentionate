@@ -3,9 +3,9 @@
 O colecție de cărți discutate și recomandate în emisiunea Starea Nației.
 
 ## Statistici
-- Total cărți: 370
-- Cărți recomandate: 189
-- Alte cărți menționate: 181
+- Total cărți: 420
+- Cărți recomandate: 208
+- Alte cărți menționate: 212
 
 ## Fișiere
 - `index.html` - Pagina principală
@@ -18,4 +18,4 @@ O colecție de cărți discutate și recomandate în emisiunea Starea Nației.
 2. Asigură-te că GitHub Pages este activat în setările repository-ului
 3. Site-ul va fi disponibil la URL-ul GitHub Pages
 
-Generat la: 2025-03-09 07:35:36
+Generat la: 2025-10-19 12:03:02

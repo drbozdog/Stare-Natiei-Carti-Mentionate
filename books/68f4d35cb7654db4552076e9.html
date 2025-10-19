@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Darul - Detalii | Starea Nației</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .book-details {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px var(--shadow-color);
+            padding: 2rem;
+        }
+        
+        .book-header {
+            margin-bottom: 2rem;
+            text-align: center;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .book-title {
+            font-size: 2.5rem;
+            color: var(--text-color);
+            margin-bottom: 0.75rem;
+            line-height: 1.2;
+        }
+        
+        .book-author {
+            font-size: 1.4rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .external-link {
+            display: inline-block;
+            margin: 1.5rem 0;
+            padding: 0.8rem 1.5rem;
+            background: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            transition: background-color 0.3s ease;
+            font-size: 1.1rem;
+        }
+        
+        .external-link:hover {
+            background: #1976D2;
+        }
+        
+        .book-description {
+            margin: 2rem auto;
+            line-height: 1.8;
+            color: #444;
+            max-width: 800px;
+            font-size: 1.1rem;
+        }
+        
+        .mentions-section {
+            margin-top: 3rem;
+        }
+        
+        .mentions-section h3 {
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            color: var(--text-color);
+        }
+        
+        .mention-card {
+            margin: 1.5rem 0;
+            padding: 2rem;
+            background: var(--background-light);
+            border-radius: 8px;
+            box-shadow: 0 1px 3px var(--shadow-color);
+        }
+        
+        .mention-date {
+            color: #666;
+            font-size: 1rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        .mention-link {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        
+        .mention-text {
+            margin: 1rem 0;
+            line-height: 1.7;
+            color: #333;
+            font-size: 1.1rem;
+        }
+        
+        .back-link {
+            display: inline-block;
+            margin: 2rem 0;
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+        
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 768px) {
+            .book-title {
+                font-size: 2rem;
+            }
+            
+            .book-author {
+                font-size: 1.2rem;
+            }
+            
+            .mention-card {
+                padding: 1.5rem;
+            }
+            
+            .mention-text {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cărțile Nației</h1>
+    </header>
+
+    <main>
+        <div class="book-details">
+            <a href="#" class="back-link" onclick="history.back(); return false;">
+                <i class="fas fa-arrow-left"></i> Înapoi la lista de cărți
+            </a>
+            
+            <div class="book-header">
+                <h2 class="book-title">Darul</h2>
+                <p class="book-author">de Edit Eva Eger</p>
+                <a href="https://www.goodreads.com/book/show/75346279-darul" class="external-link" target="_blank">Vezi detalii <i class="fas fa-external-link-alt"></i></a>
+            </div>
+
+            <div class="book-description">In &#x27;Darul&#x27;, Edith Eva Eger shares her transformative journey of healing and empowerment after surviving unimaginable horrors. She describes 12 significant emotional challenges such as fear, pain, rage, guilt, and shame, as well as the tools she discovered to face these universal challenges. The book emphasizes that what matters most is not what happens to us, but how we choose to respond to those events.</div>
+
+            <div class="mentions-section">
+                <h3>Mențiuni în emisiune</h3>
+                
+                <div class="mention-card">
+                    <div class="mention-date">27 septembrie 2025</div>
+                    <a href="https://youtu.be/MvXpwHemWeU?t=19:52" 
+                       class="mention-link" target="_blank">
+                        De ce ajung oamenii narcisiști și paranoici la putere? Vocea Nației #292
+                    </a>
+                    <div class="mention-text">
+                        comunica, abilitatea de a colabora, compasieunea, stăpânirea sau controlul de sine și spiritul civic. Ca să poată să devină creator de soluții pentru un viitor mai bun, copiii trebuie să înțeleagă și trecutul, să înțeleagă cum au fost posibilă atrocitățile din historie, cum au început ele întodea una prin cu vinte, prin acolo acolo este treptată cu răul, puțin, câte puțin. Erwin Staub, un supraviețuitor al holocaustului, specialist în psihologii esociială, ajuns în studiii le sale la concluzia că una dintre rădăcinile răului este ignorarea lui de către cei de pe margine, cei care alec să nu vada și să nu știe. Cei care spun mereu și ce domne treaba mea? Dacă măritori protestează împotriva răului, în la rata de fiecare dată când iela pare, sarci în rău făcătoriilor devine mult mai gre. Vă recomand pe această tema și cărțile alegerea <span class="highlight">darul</span> scrise de edit Eva Egger, la rândul ei supraviețuitori a holocaustului și de sigur cărțile lui Victor Frankl. Și asta am mai zis aici, dar trebuie să repetăm când desputem, cred că e sensial să ne echipăm copii cu aceasta abilitate. Aduluiți trebuie să facă tot ceține de ei, ca să crească în primurând copii bunii, copii blânzii, copii care știu să identifice ura, să se ferească de ea și mai ale să nu o practice, sub nicio formă. Dacă am înțelegem mai bine cum au fost posibilă atrocitățile dintrecut, poate că am reușit să identificăm mai usor felul în care partidele de extremă drepta din Europa, răspândesc ura. Adolesc ce înții de ați trebuie să învețe ce înseamnă preju decata, discriminarea, desumanizare. Trebuie să învețe ce înseamnă abuzul de putere
+                    </div>
+                </div>
+                
+                <div class="mention-card">
+                    <div class="mention-date">8 iunie 2024</div>
+                    <a href="https://youtu.be/uY3Ncd8Xx00?t=17:29" 
+                       class="mention-link" target="_blank">
+                        Un milion de tineri votează pentru prima dată. Sunt pregătiți? Vocea Nației #234
+                    </a>
+                    <div class="mention-text">
+                        foarte bună imaginea dacă am înțelege mai bine cum au au fost posibile atrocitățile din trecut poate că am putea să identificăm mult mai ușor felul în care partidele de extremă dreapta din Europa răspândesc Ura și nu doar aceste partide Uitați vă la partidele noastre mari De câte ori n au răspândit Ura în ultimii ani adolescenții trebuie să învețe Ce înseamnă prejudecata discriminarea dezumanizarea și trebuie să învețe Ce înseamnă abuzul de putere și cum să identifice semnalele unor abuzuri de putere nu avem astăzi suficiente lecții de educație civică predate copiilor care să i învețe să identifice distorsiunile adevărului așa că e tot responsabilitatea părinților să facă tot ce pot ei ca să dea mai departe iubire înțelegere și nu ură Din păcate nu prea mulți sunt cei care fac asta vă recomand cărțile alegerea și <span class="highlight">darul</span> scrise de Edit Eva Egger o supraviețuitoare a holocaustului dacă nu le aș citit încă Eger are în prezent 96 de ani e specialistă în tratamentul tulburărilor de stres posttraumatic și în cartea alegerea descrie viața de dinainte de Auschwitz când era doar un copil povestea supraviețuirii acolo când avea doar 16 ani și apoi procesul foarte lung de vindecare Găsiți cărțile scrise de Edit Eva Egger în format audio și ebook în aplicația audio tribe publicitate Le mulțumesc pe această cale partenerilor noștri de la audio tribe care susțin acest podcast nu uitați că primiți 25% reducere la prima plată a abonamentului creat pe site ul audiotop dacă folosiți codul s25 Găsiți toate detaliile și mai jos în descriere puteți testa aplicația gratuit timp de șapte zile ca să vedeți
+                    </div>
+                </div>
+                
+                <div class="mention-card">
+                    <div class="mention-date">24 februarie 2024</div>
+                    <a href="https://youtu.be/AQ6kYbhsYUM?t=19:23" 
+                       class="mention-link" target="_blank">
+                        Copiii de azi vor modela viitorul. Cu ce abilități îi echipăm? Vocea Nației #220
+                    </a>
+                    <div class="mention-text">
+                        ignorarea lui de către cei de pe margine cei ce aleg să nu vadă și să nu știe dacă martorii protestează Împotriva răului sarcina răufăcătorilor devine mult mai grea să ținem minte asta și să reacționăm imediat în fața Răului De câte ori îl vedem cred că este esențial să ne echipăm copiii cu această abilitate de a nu întoarce capul în fața Răului de a fi buni e mult mai important decât să ia nota 10 la toate testele Nu cred că părinții de astăzi fac tot ce pot ca să crească în primul rând copii buni copii blânzi copii care știu să identifice Ura să se ferească de ea și să n o practice cineva spunea într un comentariu că nu e bine domne să ți crești așa copiii pentru că vor fi victimele oamenilor răi nu sunt de acord Edit Eva Egger la rândul ei Supraviețuitoarea holocaustului și autoarea cărților alegerea și <span class="highlight">darul</span> sunt cele traduse la noi și am mai povestit aici despre Aceste cărți în special despre alegerea se întreba dacă facem în prezent tot ce e posibil pentru ca generațiile tinere să primească toate lecțiile de care au nevoie pentru prevenirea unui alt holocaust facem tot ce ține de noi ca să provocăm o schimbare suntem atenți să le dăm mai departe copiilor noștri iubirea și nu Ura cred că e foarte foarte important să reflectăm la asta Holocaustul e o tragedie de proporții foarte recent în istoria noastră dacă am înțelege mai bine cum au fost posibile acele atrocități poate că am putea să identificăm mult mai ușor felul în care partidele de extremă dreapta din Europa răspândesc astăzi Ura adolescenții trebuie să învețe Ce înseamnă prejudecata discriminarea dezumanizarea și trebuie
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>
